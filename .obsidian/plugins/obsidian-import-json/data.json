@@ -1,0 +1,13 @@
+{
+  "jsonName": "cn_name",
+  "jsonNamePath": false,
+  "jsonUrl": "",
+  "folderName": "Rewards",
+  "topField": "",
+  "notePrefix": "",
+  "noteSuffix": "",
+  "handleExistingNote": 0,
+  "forceArray": false,
+  "multipleJSON": false,
+  "uniqueNames": false
+}

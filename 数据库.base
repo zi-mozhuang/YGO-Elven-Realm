@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - "!ID.isEmpty()"
+    order:
+      - file.name
+      - ID
+      - 分类
+      - file.folder
+      - 英文名
+      - 字段
+    sort:
+      - property: ID
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: series
+        direction: DESC
+      - property: 字段
+        direction: DESC
+    columnSize:
+      file.name: 151
+      note.ID: 77
+      note.分类: 85
+      file.folder: 94
+      note.英文名: 223

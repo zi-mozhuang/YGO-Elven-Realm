@@ -1,0 +1,33 @@
+{  
+  "4370": {
+    "cid": 4370,
+    "id": 5405694,
+    "cn_name": "混沌战士-仪式",
+    "sc_name": "混沌士兵",
+    "md_name": "",
+    "nwbbs_n": "",
+    "cnocg_n": "混沌戦士",
+    "jp_ruby": "カオス・ソルジャー",
+    "jp_name": "カオス・ソルジャー",
+    "en_name": "Black Luster Soldier",
+    "text": {
+      "types": "[怪兽|仪式] 战士/地\n[★8] 3000/2500",
+      "pdesc": "",
+      "desc": "「混沌的仪式」降临。",
+      "card_type": "怪兽",
+      "category": "仪式",
+      "series": "混沌战士",
+      "extra_value": ""
+    },
+    "data": {
+      "ot": 11,
+      "setcode": 4303,
+      "type": 129,
+      "atk": 3000,
+      "def": 2500,
+      "level": 8,
+      "race": 1,
+      "attribute": 1
+    }
+  }
+}

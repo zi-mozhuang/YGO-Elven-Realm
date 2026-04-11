@@ -449,9 +449,9 @@ SteelswarmCell-TF05-JP-VG-artwork.png SteelswarmGirastag-TFG-artwork.png Steelsw
 
 SteelswarmCaller-TF05-JP-VG-artwork.png teelswarmScout-TF05-JP-VG-artwork.png SteelswarmGatekeeper-TF05-JP-VG-artwork.png 「侵入魔鬼的呼唤者」 侵入魔鬼的斥候」 侵入魔鬼的门番」 
 
-## 「艾米莉亚」在失败的「遗式」实验中丧生
+## 「艾米莉娅」在失败的「遗式」实验中丧生
 
-为寻找复活挚友的方法，诺艾莉娅深入研究禁术，体内的「侵入魔鬼」意识也随之觉醒。在一次实验中，诺艾莉娅的女儿「艾米莉亚」意外丧生。
+为寻找复活挚友的方法，诺艾莉娅深入研究禁术，体内的「侵入魔鬼」意识也随之觉醒。在一次实验中，诺艾莉娅的女儿「艾米莉娅」意外丧生。
 
 AquamirrorIllusion-TF06-JP-VG-artwork.png 「仪水镜的幻影术」
 
@@ -529,7 +529,7 @@ EvigishkiMerrowgeist-TF06-JP-VG-artwork.png valvalIgnis-TF06-JP-VG-artwork.png i
 
 EvigishkiGustkraken-TF06-JP-VG-artwork.png LavalvalTF06-JP-VG-artwork.png DaigustoFalcos-TF06-JP-VG-artwork.png 「邪遗式幽风乌贼怪」 「熔岩谷龙骑士」 大薰风飞隼
 
-共有六名战士被「双西格玛」吞噬。「人鱼风灵」是「遗式术师·艾米莉娅」与「穆斯托」的灵魂超量体；「薰风乌贼」是艾米莉亚的血肉之躯，作为仪式祭品被转化为怪物；「飞隼」则是在「神威」陷入危机时，为救他而主动献身被吞噬的。
+共有六名战士被「双西格玛」吞噬。「人鱼风灵」是「遗式术师·艾米莉娅」与「穆斯托」的灵魂超量体；「薰风乌贼」是艾米莉娅的血肉之躯，作为仪式祭品被转化为怪物；「飞隼」则是在「神威」陷入危机时，为救他而主动献身被吞噬的。
 
 ## 「宝石骑士 珍珠」击败「双西格玛」
 
@@ -611,11 +611,11 @@ InfestationPandemic-MADU-EN-VG-artwork.png 「侵略的泛发感染」
 
 「入魔」觉醒后，占据并活化了散落在大沼泽各处的尸体与残骸。死者开始攻击生者，而被攻击者也会变成「入魔」的一部分，导致污染进一步扩散。
 
-MistValleyApexAvian-TF05-JP-VG-artwork.png EvilswarmThunderbird-MADU-EN-VG-artwork.png 「霞之谷的顶点飞鸟」 蚀雷鸟」 「邪
+MistValleyApexAvian-TF05-JP-VG-artwork.png EvilswarmThunderbird-MADU-EN-VG-artwork.png 「霞之谷的顶点飞鸟」 入魔雷神鸟
 
-AllyofJusticeCatastor-TF05-JP-VG-artwork.png EvilswarmGolem-MADU-EN-VG-artwork.png 「正义盟军 灾亡虫」 蚀魔像」 「邪
+AllyofJusticeCatastor-TF05-JP-VG-artwork.png EvilswarmGolem-MADU-EN-VG-artwork.png 「正义盟军 灾亡虫」 入魔巨偶虫
 
-LocomotionRGenex-TF05-JP-VG-artwork.png EvilswarmCoppelia-MADUartwork.png 「机动真次世代」 「入魔可佩莉亚」 -EN-VG-
+LocomotionRGenex-TF05-JP-VG-artwork.png EvilswarmCoppelia-MADUartwork.png 「真次世代黑机车人」 「入魔人偶 葛佩利亚」 
 
 不久后，「入魔」现象进一步扩散，开始感染生者。「冰结界」的三条冰龙也被「入魔」瘟疫完全感染。
 
@@ -623,161 +623,161 @@ LocomotionRGenex-TF05-JP-VG-artwork.png EvilswarmCoppelia-MADUartwork.png 「机
 
 「侵入魔鬼」是适合被「入魔」化、并能容纳「入魔」存在的生物。但这些成为宿主的生物，是来自其他世界，还是曾经存在于地表的物种？真相无人知晓。
 
-InfestationInfection-MADU-EN-VG-artwork.png 「入魔感染」
+InfestationInfection-MADU-EN-VG-artwork.png 「侵略的侵食感染」
 
 「入魔」的心智会影响其占据的任何宿主生物。
 
-SteelswarmHercules-TF06-JP-VG-artwork.png eelswarmLonghorn-TF06-JP-VG-artwork.png SteelswarmCaucastag-TF05-JP-VG-artwork.png 「侵入魔鬼 威角」 「侵入魔鬼 长角」 「侵入魔鬼 巨角」 St
+SteelswarmHercules-TF06-JP-VG-artwork.png eelswarmLonghorn-TF06-JP-VG-artwork.png SteelswarmCaucastag-TF05-JP-VG-artwork.png 「侵入魔鬼 威角」 「侵入魔鬼 长角」 「侵入魔鬼 巨角」
 
 高阶「侵入魔鬼」
 
 它们是最先适应「入魔」化、让邪恶思想寄宿于体内的存在。它们不仅拥有绝对的恶意，还具备极高的智慧，能够将「入魔」传递给猎物的尸体与残骸。
 
-SteelswarmCell-TF05-JP-VG-artwork.png SteelswarmGen6-JP-VG-artwork.png SteelswarmSentinel-TF06-JP-VG-artwork.png 「侵入魔鬼的魔细胞」 侵入魔鬼基因组」 「侵入魔鬼 哨兵」 「 ome-TF0
+SteelswarmCell-TF05-JP-VG-artwork.png SteelswarmGen6-JP-VG-artwork.png SteelswarmSentinel-TF06-JP-VG-artwork.png 「侵入魔鬼的魔细胞」 侵入魔鬼万能态」 「侵入魔鬼的步哨」 
 
 低阶「侵入魔鬼」
 
 它们是远古时期高阶「侵入魔鬼」猎物的尸体，后来被「入魔」占据。它们的智慧远低于高阶「侵入魔鬼」。
 
-## 「大日」终降临
+## 「星圣」终降临
 
-觉醒的「入魔」污染迅速蔓延，让地表世界陷入混乱。就在此时，传说中象征救赎的骑士——「大日」部族降临人间。为打破不断蔓延的邪恶思想链条，它们向「入魔」发动了全面进攻。
+觉醒的「入魔」污染迅速蔓延，让地表世界陷入混乱。就在此时，传说中象征救赎的骑士——「星圣」部族降临人间。为打破不断蔓延的邪恶思想链条，它们向「入魔」发动了全面进攻。
 
-ConstellarPleiades-MADU-EN-VG-artwork.png 「大日昴星团」
+ConstellarPleiades-MADU-EN-VG-artwork.png 「星圣昴星团」
 
-「大日」部族中的高阶成员，战斗力远超其他「大日」。据说在它冲锋陷阵时，其他战士还能提供支援攻击。
+「星圣」部族中的高阶成员，战斗力远超其他「星圣」。据说在它冲锋陷阵时，其他战士还能提供支援攻击。
 
 ### 它们已收到「大日」关于「入魔」复苏的报告
 
 VylonAlpha-TF06-JP-VG-artwork.png 「大日阿尔法」
 
-「大日」是为对抗「侵入魔鬼」而研发的，主要职责是观察地表。「大日」部族收到了它们关于「侵入魔鬼」复苏的通知，因此出征讨伐「侵入魔鬼」。
+「大日」是为对抗「侵入魔鬼」而研发的，主要职责是观察地表。「星圣」部族收到了它们关于「侵入魔鬼」复苏的通知，因此出征讨伐「侵入魔鬼」。
 
 ## 诺艾莉娅解除「冰结界」三条龙的封印
 
-面对「入魔」的疯狂肆虐与「大日」的降临，诺艾莉娅试图解除三条冰龙的封印。然而，这些龙早已被「入魔」污染，苏醒后成为了最邪恶、最凶险的存在。
+面对「入魔」的疯狂肆虐与「星圣」的降临，诺艾莉娅试图解除三条冰龙的封印。然而，这些龙早已被「入魔」污染，苏醒后成为了最邪恶、最凶险的存在。
 
-EvilswarmOuroboros-MADU-EN-VG-artwork.png EvilswarmBahamut-MADU-EN-VG-artwork.png ilswarmOphion-MADU-EN-VG-artwork.png 「入魔欧罗巴」 「入魔巴哈姆特」 「入魔奥菲恩」 Ev
+EvilswarmOuroboros-MADU-EN-VG-artwork.png EvilswarmBahamut-MADU-EN-VG-artwork.png ilswarmOphion-MADU-EN-VG-artwork.png 「入魔邪龙 乌洛波洛斯」 「入魔龙王 巴哈姆特」 「入魔龙主 俄菲翁」 
 
 ## 诺艾莉娅利用「侵入魔鬼」尸体施展禁术
 
 诺艾莉娅再次尝试使用那门夺走挚友生命的法术，并成功以「侵入魔鬼」的尸体完成了仪式——但她的身心也随之被污染，与「侵入魔鬼」一同陷入失控。
 
-GishkiPsychelone-MADU-JP-VG-artwork.png 「遗式心灵海神」
+GishkiPsychelone-MADU-JP-VG-artwork.png 「邪遗式魂灵座甲魔」
 
-从她手中「水镜」表面的「侵入魔鬼」纹章可以推测，她的身心已被「侵入魔鬼」完全污染。
+从她手中「仪水镜」表面的「侵入魔鬼」纹章可以推测，她的身心已被「侵入魔鬼」完全污染。
 
 ## 「遗式」复活被污染的「侵入魔鬼 威角」
 
 诺艾莉娅与其他「遗式」成员继续施展禁术——这次使用的是「威角」的尸体——但那些无法抵抗其强烈邪恶思想的人瞬间被污染，而「威角」也以这样的形态完成了复活。
 
-GishkiZielgigas-MADU-EN-VG-artwork.png 「遗式 Zielgigas」
+GishkiZielgigas-MADU-EN-VG-artwork.png 「邪遗式魂魄巨灵」
 
-「侵入魔鬼 威角」污染了施展仪式的召唤者。为实现完全复活，他开始摧毁能够解除仪式的「水镜」。
+「侵入魔鬼 威角」污染了施展仪式的召唤者。为实现完全复活，他开始摧毁能够解除仪式的「仪水镜」。
 
-## 阿万斯复活仪式失败
+## 阿旺斯复活仪式失败
 
-阿万斯最大的愿望，是复活被「双西格玛」吸收了身体与灵魂、彻底消失的艾米莉亚。他利用在古代文献中发现的「光镜」仪式术，试图复活艾米莉亚的灵魂，但对她的强烈情感导致仪式反噬失败。
+阿旺斯最大的愿望，是复活被「双西格玛」吸收了身体与灵魂、彻底消失的艾米莉娅。他利用在古代文献中发现的「写魂镜」仪式术，试图复活艾米莉娅的灵魂，但对她的强烈情感导致仪式反噬失败。
 
-GishkiPhotomirror-MADU-EN-VG-artwork.png 「遗式光镜」
+GishkiPhotomirror-MADU-EN-VG-artwork.png 「遗式的写魂镜」
 
-这是一面通过牺牲使用者灵魂来施展仪式的镜子。阿万斯本打算牺牲自己的灵魂。
+这是一面通过牺牲使用者灵魂来施展仪式的镜子。阿旺斯本打算牺牲自己的灵魂。
 
-## 阿万斯转化为「Levianima」
+## 阿旺斯转化为「双魂海龙」
 
-仪式中阿万斯不稳定的精神状态，导致「光镜」的力量反弹到他身上。他吸收了以不完全形态复活的艾米莉亚的灵魂，彻底转化为失控的怪物「Levianima」。他失去了自我意识，开始肆意肆虐。
+仪式中阿旺斯不稳定的精神状态，导致「写魂镜」的力量反弹到他身上。他吸收了以不完全形态复活的艾米莉娅的灵魂，彻底转化为失控的怪物「双魂海龙」。他失去了自我意识，开始肆意肆虐。
 
-EvigishkiLevianima-MADU-EN-VG-artwork.png 「邪遗式 Levianima」
+EvigishkiLevianima-MADU-EN-VG-artwork.png 「邪遗式 双魂海龙」
 
-阿万斯转化为的怪物，是「光镜」从他灵魂深处唤醒的形态。
+阿旺斯转化为的怪物，是「写魂镜」从他灵魂深处唤醒的形态。
 
-## 「波鲁克斯」的兄长「卡斯托尔」特攻「心灵海神」后牺牲
+## 「北河三」的兄长「北河二」特攻「魂灵座甲魔」后牺牲
 
-「大日卡斯托尔」向不分敌我、盲目肆虐的「心灵海神」发起攻击。尽管他成功将诺艾莉娅从「侵入魔鬼」的意志中解放出来，但自己却因此牺牲。
+「星圣北河二」向不分敌我、盲目肆虐的「魂灵座甲魔」发起攻击。尽管他成功将诺艾莉娅从「侵入魔鬼」的意志中解放出来，但自己却因此牺牲。
 
-ConstellarMeteor-MADU-JP-VG-artwork.png 「大日流星」
+ConstellarMeteor-MADU-JP-VG-artwork.png 「星圣的流星」
 
-## 「入魔卡斯托尔」诞生
+## 「入魔鬼·北河二」诞生
 
-「入魔」没有放过卡斯托尔特攻牺牲的机会，立即开始污染他的尸体，创造出同时拥有光明与黑暗力量的「入魔卡斯托尔」。
+「入魔」没有放过北河二特攻牺牲的机会，立即开始污染他的尸体，创造出同时拥有光明与黑暗力量的「入魔鬼·北河二」。
 
-EvilswarmCastor-MADU-EN-VG-artwork.png 「入魔卡斯托尔」
+EvilswarmCastor-MADU-EN-VG-artwork.png 「入魔鬼·北河二」
 
 他的剑术与能力在被占据后丝毫未变，极大地推动了「入魔」的扩张与影响力。
 
-## 诺艾莉娅利用「循环」之术完成「光镜」仪式
+## 诺艾莉娅利用「循环」之术完成「写魂镜」仪式
 
-恢复理智的诺艾莉娅，对自己犯下的罪行充满悔恨，解除了阿万斯身上的诅咒。随后，她决定以自己的灵魂作为「水镜循环」的祭品，复活艾米莉亚。
+恢复理智的诺艾莉娅，对自己犯下的罪行充满悔恨，解除了阿旺斯身上的诅咒。随后，她决定以自己的灵魂作为「仪水镜的返魂术」的祭品，复活艾米莉娅。
 
-AquamirrorCycle-MADU-JP-VG-artwork.png 「水镜循环」
+AquamirrorCycle-MADU-JP-VG-artwork.png 「仪水镜的返魂术」
 
-通过结合「光镜」与「水镜」的魔法，她们试图让艾米莉亚的身体与灵魂完全复活。
+通过结合「写魂镜」与「仪水镜」的魔法，她们试图让艾米莉娅的身体与灵魂完全复活。
 
-## Zielgigas的终结与「水镜」的传承
+## 魂魄巨灵的终结与「仪水镜」的传承
 
-在几乎耗尽所有生命力的诺艾莉娅面前，被仪式力量吸引的Zielgigas出现了。她用剩余的生命能量击败了他，随后将自己亲生与收养的两个孩子托付给「水镜」，咽下了最后一口气。
+在几乎耗尽所有生命力的诺艾莉娅面前，被仪式力量吸引的魂魄巨灵出现了。她用剩余的生命能量击败了他，随后将自己亲生与收养的两个孩子托付给「仪水镜」，咽下了最后一口气。
 
-SpellWall-MADU-EN-VG-artwork.png 「魔法屏障」
+SpellWall-MADU-EN-VG-artwork.png 「魔力隔壁」
 
-为了保护艾米莉亚与阿万斯，诺艾莉娅用尽最后一丝力量摧毁了Zielgigas。
+为了保护艾米莉娅与阿旺斯，诺艾莉娅用尽最后一丝力量摧毁了魂魄巨灵。
 
-## 「宝石骑士」驰援陷入劣势的「大日」
+## 「宝石骑士」驰援陷入劣势的「星圣」
 
-卡斯托尔转化为「入魔」，再加上三条冰龙被感染，让「大日」陷入危机。在这种情况下，他们与秉持正义的「宝石骑士」结成同盟。「处女座」与掌控天体力量的战士「青金石」融合，诞生了新的战士「天使石」。
+北河二转化为「入魔」，再加上三条冰龙被感染，让「星圣」陷入危机。在这种情况下，他们与秉持正义的「宝石骑士」结成同盟。「处女座」与掌控天体力量的战士「青金石」融合，诞生了新的战士「天使石」。
 
-GemKnightLazuli-MADU-EN-VG-artwork.png onstellarVirgo-MADU-EN-VG-artwork.png 「宝石骑士 青金石」 大日处女座」 「 C
+GemKnightLazuli-MADU-EN-VG-artwork.png onstellarVirgo-MADU-EN-VG-artwork.png 「宝石骑士 青金石」 星圣处女座」 「 C
 
 GemKnightSeraphinite-MADU-EN-VG-artwork.png 「宝石骑士 天使石」
 
-这是「宝石骑士」与「大日」融合诞生的战士。她拥有象征「传播友谊」的核心，并用这份力量帮助重建「大日」部队。
+这是「宝石骑士」与「星圣」融合诞生的战士。她拥有象征「传播友谊」的核心，并用这份力量帮助重建「星圣」部队。
 
-## 「大日波鲁克斯」击倒「入魔卡斯托尔」，自身亦被击杀
+## 「星圣北河三」击倒「入魔鬼·北河二」，自身亦被击杀
 
-卡斯托尔是兄长，波鲁克斯是弟弟。他们一生并肩作战，凭借同步的组合攻击击败了无数敌人；但被「入魔」污染后，兄长将刀刃对准了弟弟。两人同时发动威力相当的攻击，而「入魔」试图抓住这个绝佳机会，也将波鲁克斯污染。
+北河二是兄长，北河三是弟弟。他们一生并肩作战，凭借同步的组合攻击击败了无数敌人；但被「入魔」污染后，兄长将刀刃对准了弟弟。两人同时发动威力相当的攻击，而「入魔」试图抓住这个绝佳机会，也将北河三污染。
 
-ConstellarPollux-MADU-EN-VG-artwork.png EvilswarmCastor-MADU-EN-VG-artwork.png 「大日波鲁克斯」 「入魔卡斯托尔」
+ConstellarPollux-MADU-EN-VG-artwork.png EvilswarmCastor-MADU-EN-VG-artwork.png 「星圣北河三」 「入魔鬼·北河二」
 
-这对双子座兄弟。掌管双子座的两名「大日」之一波鲁克斯，直面被转化为「入魔」的兄长卡斯托尔。
+这对双子座兄弟。掌管双子座的两名「星圣」之一北河三，直面被转化为「入魔」的兄长北河二。
 
-## 「宝石骑士 天使石」与「大日蛇夫座」成功复活波鲁克斯与卡斯托尔
+## 「宝石骑士 天使石」与「星圣蛇夫座」成功复活北河三与北河二
 
-「宝石骑士」触碰两位英勇英雄的灵魂，试图在他们被「入魔」完全污染前将其复活——在「大日蛇夫座」的帮助下，「天使石」的力量得到增幅，复活仪式成功。
+「宝石骑士」触碰两位英勇英雄的灵魂，试图在他们被「入魔」完全污染前将其复活——在「星圣蛇夫座」的帮助下，「天使石」的力量得到增幅，复活仪式成功。
 
-ConstellarStarCradle-MADU-EN-VG-artwork.png 「大日星之摇篮」
+ConstellarStarCradle-MADU-EN-VG-artwork.png 「星圣星之摇篮」
 
-在「大日蛇夫座」与「宝石骑士 天使石」的力量加持下，「大日」与「宝石骑士」成功复活了两位战士。
+在「星圣蛇夫座」与「宝石骑士 天使石」的力量加持下，「星圣」与「宝石骑士」成功复活了两位战士。
 
-ConstellarRasalhague-MADU-EN-VG-artwork.png 「大日蛇夫座」
+ConstellarRasalhague-MADU-EN-VG-artwork.png 「星圣蛇夫座」
 
-掌管蛇夫座的「大日」，负责后勤支援，手持操控治愈与复活力量的法杖。他的使命似乎与其他12星座的「大日」有所不同。
+掌管蛇夫座的「星圣」，负责后勤支援，手持操控治愈与复活力量的法杖。他的使命似乎与其他12星座的「星圣」有所不同。
 
-## 「大日托勒密M7」诞生
+## 「星圣托勒密M7」诞生
 
-目睹「宝石骑士」融合力量的「大日」，意识到了自身深处隐藏的力量——星辰联结之力，并将其释放。七名被选中的「大日」融合成为传说中的神圣巨龙，在决定性的最终战役中与「入魔」对峙。
+目睹「宝石骑士」融合力量的「星圣」，意识到了自身深处隐藏的力量——星辰联结之力，并将其释放。七名被选中的「星圣」融合成为传说中的神圣巨龙，在决定性的最终战役中与「入魔」对峙。
 
-ConstellarAcubens-MADU-EN-VG-artwork.png ConstellarLeonis-MADU-EN-VG-artwork.png ConstellarAlrescha-MADU-EN-VG-artwork.png 「大日轩辕十四」 「大日狮子座」 双鱼座」 「大日
+ConstellarAcubens-MADU-EN-VG-artwork.png ConstellarLeonis-MADU-EN-VG-artwork.png ConstellarAlrescha-MADU-EN-VG-artwork.png 「星圣轩辕十四」 「星圣狮子座」 双鱼座」 「星圣
 
-ConstellarPtolemyM7-MADU-EN-VG-artwork.png 「大日托勒密M7」
+ConstellarPtolemyM7-MADU-EN-VG-artwork.png 「星圣托勒密M7」
 
-由「轩辕十四」「狮子座」「双鱼座」「毕宿五」「处女座」「天枢」以及作为核心的「心宿二」七人融合而成的神圣巨龙。凭借它的支援与强大力量，「大日」重返前线，开始扭转战局。
+由「轩辕十四」「狮子座」「双鱼座」「毕宿五」「处女座」「天枢」以及作为核心的「心宿二」七人融合而成的神圣巨龙。凭借它的支援与强大力量，「星圣」重返前线，开始扭转战局。
 
-ConstellarAldebaran-MADU-EN-VG-artwork.png onstellarVirgo-MADU-EN-VG-artwork.png ConstellarAlgiedi-MADU-JP-VG-artwork.png onstellarAntares-MADU-EN-VG-artwork.png 「大日毕宿五」 「大日处女座」 「大日天枢」 「大日心宿二」 C C
+ConstellarAldebaran-MADU-EN-VG-artwork.png onstellarVirgo-MADU-EN-VG-artwork.png ConstellarAlgiedi-MADU-JP-VG-artwork.png onstellarAntares-MADU-EN-VG-artwork.png 「星圣毕宿五」 「星圣处女座」 「星圣天枢」 「星圣心宿二」 C C
 
-ConstellarBelt-MADU-EN-VG-artwork.png 「大日腰带」
+ConstellarBelt-MADU-EN-VG-artwork.png 「星圣腰带」
 
 「托勒密M7」可以分裂为两条巨龙，形成一道仅赋予生者力量的光带。
 
 ## 「宝石骑士 主钻石」诞生
 
-在与「入魔」的终极决战前，融合为「托勒密」的七名「大日」的力量，与聚集在「锆石」核心中的七颗核心力量产生共鸣。由此，最强战士「宝石骑士 主钻石」诞生了。
+在与「入魔」的终极决战前，融合为「托勒密」的七名「星圣」的力量，与聚集在「锆石」核心中的七颗核心力量产生共鸣。由此，最强战士「宝石骑士 主钻石」诞生了。
 
 GemKnightZirconia-MADU-EN-VG-artwork.png GemKnightMasterDiamond-MADU-EN-VG-artwork.png 「宝石骑士 锆石」 石骑士 主钻石」 「宝
 
 「锆石」将高阶「宝石骑士」的力量集中于「主钻石」身上，使其成为最强战士。他手持一把蕴含七颗核心力量的大剑，这七颗核心承载着无数次融合优化后结晶化的力量。
 
-## 「大日托勒密M7」与「入魔欧罗巴」的终极决战
+## 「星圣托勒密M7」与「入魔邪龙 乌洛波洛斯」的终极决战
 
-在「霞之谷」大沼泽的上空，「大日」的最强王牌与「入魔」最邪恶的巨龙展开了一场决定世界命运的激战。激战产生的冲击摧毁了周边许多地区。与此同时，过去曾多次出现的「霞之谷的神风」，开始在两条巨龙周围形成。
+在「霞之谷」大沼泽的上空，「星圣」的最强王牌与「入魔」最邪恶的巨龙展开了一场决定世界命运的激战。激战产生的冲击摧毁了周边许多地区。与此同时，过去曾多次出现的「霞之谷的神风」，开始在两条巨龙周围形成。
 
 InfestationTerminus-MADU-EN-VG-artwork.png 「入魔终点」
 
@@ -825,17 +825,17 @@ DT Destruction Orb.png 「索菲亚的毁灭之力」
 
 ## 「青金石」与「处女座」继承「宝石骑士 主钻石」的融合之力
 
-「主钻石」的核心损伤开始超出承受极限，已无法继续战斗。知晓这一点后，他将自己的融合之力托付给「青金石」与「处女座」。两人试图利用这份力量，与所有「大日」融合。
+「主钻石」的核心损伤开始超出承受极限，已无法继续战斗。知晓这一点后，他将自己的融合之力托付给「青金石」与「处女座」。两人试图利用这份力量，与所有「星圣」融合。
 
 GemKnightMasterDiamond-MADU-EN-VG-artwork.png 「宝石骑士 主钻石」的长剑
 
-这把长剑承载着「宝石骑士」的融合之力，并在无数次战斗中不断优化。「青金石」继承了这把剑，并将其作为与12名「大日」终极融合的核心。
+这把长剑承载着「宝石骑士」的融合之力，并在无数次战斗中不断优化。「青金石」继承了这把剑，并将其作为与12名「星圣」终极融合的核心。
 
-### 「青金石」与12名「大日」
+### 「青金石」与12名「星圣」
 
-「青金石」与黄道十二宫的12名「大日」融合。蛇夫座的战士「蛇夫座」另有打算，因此没有参与融合。
+「青金石」与黄道十二宫的12名「星圣」融合。蛇夫座的战士「蛇夫座」另有打算，因此没有参与融合。
 
-ConstellarZubeneschamali-MADU-EN-VG-artwork.png nstellarVirgo-MADU-EN-VG-artwork.png ConstellarLeonis-MADU-EN-VG-artwork.png 「大日氐宿四」 」 」 「大日狮子座 「大日处女座 Co
+ConstellarZubeneschamali-MADU-EN-VG-artwork.png nstellarVirgo-MADU-EN-VG-artwork.png ConstellarLeonis-MADU-EN-VG-artwork.png 「星圣氐宿四」 」 」 「星圣狮子座 「星圣处女座 Co
 
 ConstellarAcubens-MADU-EN-VG-artwork.png ConstellarAntares-M
 

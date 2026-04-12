@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "1fd365787dcb5f92",
+            "id": "716e03f59fcaf804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DT/Gishki/魔力隔壁.md",
+                "file": "DT/Shaddoll/神影依·舍金纳迦.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "魔力隔壁"
+              "title": "神影依·舍金纳迦"
             }
           }
         ],
@@ -66,17 +66,41 @@
             }
           },
           {
-            "id": "2fd507b192643dd0",
+            "id": "4bb81d587740d418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DT/Naturia/自然之森.md",
+                "file": "精灵界卡图故事.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自然之森"
+              "title": "精灵界卡图故事"
+            }
+          },
+          {
+            "id": "1fd365787dcb5f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Water/Mermail/忘却之都 利莫里亚.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "忘却之都 利莫里亚"
             }
           }
         ]
@@ -111,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "平庸鬼办公室",
+                "query": "魔导书廊 埃图瓦勒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,44 +268,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517603ed9b00c76a",
+  "active": "716e03f59fcaf804",
   "lastOpenFiles": [
-    "DT/Gishki/魔力隔壁.md",
-    "DT/Gishki/仪水镜的返魂术.md",
     "DT世界观卡图故事.md",
+    "DT/Shaddoll/神影依·舍金纳迦.md",
+    "DT/Constellar/星辉士 夏三角.md",
+    "DT/Nekroz/影灵衣术士 施里特.md",
+    "DT/隐藏的机壳杀手 物质主义.md",
     "数据库.base",
-    "DT/Gishki/邪遗式魂魄巨灵.md",
-    "DT/Steelswarm/入魔鬼·北河二.md",
-    "DT/Constellar/星圣的流星.md",
-    "DT/Gishki/邪遗式魂灵座甲魔.md",
-    "DT/Gishki/邪遗式双魂海龙.md",
-    "DT/Naturia/自然之森.md",
-    "DT/Gishki/邪遗式四臂噬人魔.md",
-    "DT/Gishki/遗式先锋 阿旺斯.md",
-    "DT/Gishki/遗式的写魂镜.md",
-    "DT/Gishki/遗式术师·艾米莉娅.md",
-    "DT/Steelswarm/侵入魔鬼·威角.md",
-    "DT/Gishki/遗式的仪水镜.md",
-    "DT/Gishki/邪遗式幽风乌贼怪.md",
-    "DT/Gishki/仪水镜的幻影术.md",
-    "DT/Gishki/邪遗式心意海仙女.md",
-    "DT/Gishki/邪遗式心灵女食人魔.md",
-    "DT/Steelswarm/入魔龙主 俄菲翁.md",
-    "DT/Steelswarm/入魔龙王 巴哈姆特.md",
-    "DT/Steelswarm/入魔邪龙 乌洛波洛斯.md",
-    "DT/Constellar/星圣·昴星团.md",
-    "DT/Constellar/星圣·毕星团.md",
-    "DT/Constellar/闪烁星圣.md",
-    "DT/Steelswarm/侵入魔鬼的步哨.md",
-    "DT/Constellar",
-    "DT/Genex/未命名",
-    "DT/X-Saber/未命名",
-    "Underworld/未命名",
-    "Skull",
-    "Koa'ki_Meiru/未命名",
-    "complete/Koa'ki_Meiru",
-    "complete/Lightsworn",
-    "complete/Six_samurai/未命名",
+    "DT/机壳的要塞.md",
+    "DT/Shaddoll/神影依·米德拉什.md",
+    "DT/Shaddoll/神影依·拿非利.md",
+    "DT/起动的机壳.md",
+    "DT/机壳的牲祭.md",
+    "DT/隐藏的机壳.md",
+    "DT/Shaddoll/与神之假身的接触.md",
+    "DT/Shaddoll/神影依·米沙赫雷恶.md",
+    "DT/Shaddoll/神影依·七贤巨鲲魔.md",
+    "DT/Shaddoll/神影依·神子晶.md",
+    "DT/Shaddoll/神星之影 路径灵.md",
+    "DT/Shaddoll/神圣之影 商神杖灵.md",
+    "DT/Shaddoll/影依融合.md",
+    "DT/Ritual_Beast/灵兽使 文.md",
+    "DT/Ritual_Beast/灵兽使的长老.md",
+    "DT/Shaddoll/神影依·文迪戈.md",
+    "DT/Ritual_Beast/灵兽的骑袭.md",
+    "DT/Ritual_Beast/灵兽的连契.md",
+    "DT/Ritual_Beast/灵兽的继圣.md",
+    "DT/Constellar/星守之结界.md",
+    "DT/Nekroz/影灵衣大魔道士.md",
+    "DT/Nekroz",
+    "DT/Ritual_Beast",
+    "DT/Satellarknight",
+    "DT/Shaddoll",
+    "DT/Yang_Zinga",
+    "Other/Noble_Knight",
+    "Other/Traptrix",
+    "Magic/Potion",
+    "Goblin/Ghostrick",
     "Pasted image 20260407193131.png",
     "Pasted image 20260407145828.png",
     "Pasted image 20260403172924.png",

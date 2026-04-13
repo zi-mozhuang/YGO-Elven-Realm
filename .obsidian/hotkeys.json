@@ -15,5 +15,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
   ]
 }

@@ -21,12 +21,26 @@
             }
           },
           {
+            "id": "1e5a4de2cfc1a596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT/Constellar/星守之骑士 托勒密.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "星守之骑士 托勒密"
+            }
+          },
+          {
             "id": "716e03f59fcaf804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DT/Shaddoll/神影依·舍金纳迦.md",
+                "file": "DT/Constellar/星守之骑士团.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "神影依·舍金纳迦"
+              "title": "星守之骑士团"
             }
           }
         ],
@@ -268,35 +282,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "716e03f59fcaf804",
+  "active": "1e5a4de2cfc1a596",
   "lastOpenFiles": [
-    "DT世界观卡图故事.md",
-    "DT/Shaddoll/神影依·舍金纳迦.md",
-    "DT/Constellar/星辉士 夏三角.md",
-    "DT/Nekroz/影灵衣术士 施里特.md",
-    "DT/隐藏的机壳杀手 物质主义.md",
+    "DT/Constellar/星守之骑士团.md",
     "数据库.base",
-    "DT/机壳的要塞.md",
-    "DT/Shaddoll/神影依·米德拉什.md",
-    "DT/Shaddoll/神影依·拿非利.md",
-    "DT/起动的机壳.md",
-    "DT/机壳的牲祭.md",
-    "DT/隐藏的机壳.md",
-    "DT/Shaddoll/与神之假身的接触.md",
-    "DT/Shaddoll/神影依·米沙赫雷恶.md",
-    "DT/Shaddoll/神影依·七贤巨鲲魔.md",
-    "DT/Shaddoll/神影依·神子晶.md",
-    "DT/Shaddoll/神星之影 路径灵.md",
-    "DT/Shaddoll/神圣之影 商神杖灵.md",
-    "DT/Shaddoll/影依融合.md",
-    "DT/Ritual_Beast/灵兽使 文.md",
-    "DT/Ritual_Beast/灵兽使的长老.md",
-    "DT/Shaddoll/神影依·文迪戈.md",
-    "DT/Ritual_Beast/灵兽的骑袭.md",
-    "DT/Ritual_Beast/灵兽的连契.md",
-    "DT/Ritual_Beast/灵兽的继圣.md",
-    "DT/Constellar/星守之结界.md",
-    "DT/Nekroz/影灵衣大魔道士.md",
+    "DT/Constellar/星守之骑士 托勒密.md",
+    "DT/Yang_Zinga/源龙星-望天吼.md",
+    "DT/Constellar/超神星辉士 星圣神龙 托勒密星团Ω7.md",
+    "DT/Constellar/星圣神龙 托勒密星团M7.md",
+    "DT/Constellar/星圣·欧米伽星云.md",
+    "DT/Constellar/星圣·牛宿二.md",
+    "DT/Constellar/星圣·娄宿一.md",
+    "DT/Constellar/星圣·柳宿增三.md",
+    "DT/Constellar/星圣·箕宿三.md",
+    "DT世界观卡图故事.md",
+    "DT/Infernoid/狱火机·拿玛.md",
+    "DT/Infernoid/苍焰之炼狱.md",
+    "DT/Infernoid/炼狱的灾天.md",
+    "DT/Infernoid/炼狱的消华.md",
+    "DT/Infernoid/炼狱的死徒.md",
+    "DT/Infernoid/炼狱的契约.md",
+    "DT/Infernoid/炼狱的落穴.md",
+    "DT/Infernoid/炼狱的狂宴.md",
+    "DT/Infernoid/炼狱的决界.md",
+    "DT/Infernoid/炼狱的泛烂.md",
+    "DT/Infernoid/壳醒的炼狱.md",
+    "DT/Infernoid/炽动的炼狱.md",
+    "DT/Infernoid/炼狱之釜.md",
+    "DT/Constellar/星辉士 星圣冬钻龙.md",
+    "DT/Infernoid",
+    "DT/Void",
     "DT/Nekroz",
     "DT/Ritual_Beast",
     "DT/Satellarknight",
@@ -304,8 +319,6 @@
     "DT/Yang_Zinga",
     "Other/Noble_Knight",
     "Other/Traptrix",
-    "Magic/Potion",
-    "Goblin/Ghostrick",
     "Pasted image 20260407193131.png",
     "Pasted image 20260407145828.png",
     "Pasted image 20260403172924.png",

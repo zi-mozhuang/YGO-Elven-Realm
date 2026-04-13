@@ -12,6 +12,8 @@ views:
       - 英文名
       - 字段
     sort:
+      - property: file.name
+        direction: ASC
       - property: ID
         direction: ASC
       - property: series
@@ -23,4 +25,4 @@ views:
       note.ID: 77
       note.分类: 85
       file.folder: 94
-      note.英文名: 202
+      note.英文名: 250

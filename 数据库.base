@@ -1,3 +1,5 @@
+formulas:
+  未命名: ""
 views:
   - type: table
     name: 表格
@@ -6,9 +8,11 @@ views:
         - "!ID.isEmpty()"
     order:
       - file.name
+      - ID
       - file.folder
       - 英文名
       - 字段
+      - formula.未命名
     sort:
       - property: ID
         direction: ASC
@@ -17,6 +21,7 @@ views:
       - property: 字段
         direction: DESC
     columnSize:
-      file.name: 120
-      file.folder: 133
-      note.英文名: 388
+      file.name: 114
+      note.ID: 60
+      file.folder: 83
+      note.英文名: 156

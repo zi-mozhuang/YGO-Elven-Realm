@@ -4,7 +4,7 @@ ID: {{cid}}
 中文名: |-
   {{cn_name}}
 YGOPro: |-
-  {{sc_name}
+  {{sc_name}}
 MD: |-
   {{md_name}}
 NWBBS: |-

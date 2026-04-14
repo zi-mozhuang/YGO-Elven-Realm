@@ -5,10 +5,12 @@ ID: 21947
   纠罪巧-诈狐 Astaγ.PIXIEA
 YGOPro: |-
   纠罪巧－诈狐 Astaγ.PIXIEA
-
+MD: |-
+  纠罪巧－诈狐 Astaγ.PIXIEA
 NWBBS: |-
   纠罪巧-A阿斯塔皮克西亚γ.欺瞒之妖精
-
+CNOCG: |-
+  纠罪巧-诈狐 Astaγ.PIXIEA
 日文音标: |-
   エニアクラフト－アスタピクシア
 日文名: |-
@@ -48,3 +50,6 @@ tags: []
 
 
 *关联*  
+地点：
+关系：
+经历：

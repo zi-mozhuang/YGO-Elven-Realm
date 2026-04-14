@@ -5,8 +5,10 @@ ID: 22084
   V形蛇 L型
 YGOPro: |-
   V型蛇 Type－L
-
-
+MD: |-
+  V型蛇 Type－L
+NWBBS: |-
+  V形蛇 L型
 CNOCG: |-
   V形蛇Type-L
 日文音标: |-
@@ -46,3 +48,6 @@ tags: []
 
 
 *关联*  
+地点：
+关系：
+经历：

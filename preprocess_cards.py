@@ -6,24 +6,24 @@ print("正在读取 cards.json ...")
 with open("cards.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 # ===================== 新增：别名自动去重+对比中文名 =====================
-for cid, card in data.items():
-    cn_name = card.get("cn_name", "").strip()
-    alias_fields = ["sc_name", "md_name", "nwbbs_n", "cnocg_n"]
-    seen = set()  # 记录已经出现过的值
+# for cid, card in data.items():
+#     cn_name = card.get("cn_name", "").strip()
+#     alias_fields = ["sc_name", "md_name", "nwbbs_n", "cnocg_n"]
+#     seen = set()  # 记录已经出现过的值
     
-    for field in alias_fields:
-        val = str(card.get(field, "")).strip()
-        # 1. 和中文名相同 → 清空
-        if val == cn_name:
-            card[field] = ""
-            continue
-        # 2. 已经出现过（重复）→ 清空
-        if val in seen:
-            card[field] = ""
-            continue
-        # 3. 新值 → 保留，并记录
-        if val:
-            seen.add(val)
+#     for field in alias_fields:
+#         val = str(card.get(field, "")).strip()
+#         # 1. 和中文名相同 → 清空
+#         if val == cn_name:
+#             card[field] = ""
+#             continue
+#         # 2. 已经出现过（重复）→ 清空
+#         if val in seen:
+#             card[field] = ""
+#             continue
+#         # 3. 新值 → 保留，并记录
+#         if val:
+#             seen.add(val)
 # ======================================================================
 print(f"共 {len(data)} 张卡，开始预处理...")
 count = 0

@@ -3,20 +3,20 @@ ID: {{cid}}
 卡密: {{id}}
 中文名: |-
   {{cn_name}}
-{{#if sc_name}}YGOPro: |-
-  {{sc_name}}{{/if}}
-{{#if md_name}}MD: |-
-  {{md_name}}{{/if}}
-{{#if nwbbs_n}}NWBBS: |-
-  {{nwbbs_n}}{{/if}}
-{{#if cnocg_n}}CNOCG: |-
-  {{cnocg_n}}{{/if}}
+YGOPro: |-
+  {{sc_name}
+MD: |-
+  {{md_name}}
+NWBBS: |-
+  {{nwbbs_n}}
+CNOCG: |-
+  {{cnocg_n}}
 日文音标: |-
   {{jp_ruby}}
 日文名: |-
   {{jp_name}}
-{{#if en_name}}英文名: |-
-  {{en_name}}{{/if}}
+英文名: |-
+  {{en_name}}
 类型: {{text.card_type}}
 分类: {{text.category}}
 {{#if data.race}}
@@ -58,3 +58,12 @@ tags: []
 
 
 *关联*  
+{{#if data.race}}
+地点：
+关系：
+经历：
+{{else}}
+地点：
+前情：
+情节：
+{{/if}}

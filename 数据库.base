@@ -16,13 +16,15 @@ views:
     sort:
       - property: ID
         direction: ASC
+      - property: file.name
+        direction: ASC
       - property: series
         direction: DESC
       - property: 字段
         direction: DESC
     columnSize:
-      file.name: 61
-      note.ID: 41
-      file.folder: 38
-      note.英文名: 255
+      file.name: 178
+      note.ID: 74
+      file.folder: 146
+      note.英文名: 307
       note.字段: 137

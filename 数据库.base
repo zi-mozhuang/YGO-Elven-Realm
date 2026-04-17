@@ -23,8 +23,8 @@ views:
       - property: 字段
         direction: DESC
     columnSize:
-      file.name: 121
+      file.name: 126
       note.ID: 11
-      file.folder: 86
-      note.英文名: 290
+      file.folder: 64
+      note.英文名: 138
       note.字段: 137

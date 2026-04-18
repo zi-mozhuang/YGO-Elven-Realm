@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "edc16cc5754aab4c",
+            "id": "105e2b85eac0f4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinful_spoils/原罪宝-蛇眼.md",
+                "file": "Rewards/成金哥布林.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原罪宝-蛇眼"
+              "title": "成金哥布林"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8d4331831864a984",
@@ -69,23 +70,9 @@
               "icon": "lucide-file",
               "title": "精灵界卡图故事"
             }
-          },
-          {
-            "id": "603ce2e2de5d6c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "计数物",
+                "query": "地点：",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 259.51103591918945
   },
   "right": {
     "id": "f725a3154f210c94",
@@ -248,52 +235,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "603ce2e2de5d6c77",
+  "active": "105e2b85eac0f4fb",
   "lastOpenFiles": [
-    "精灵界卡图故事.md",
+    "Rewards/成功确率0%.md",
+    "Rewards/成金哥布林.md",
+    "Rewards/成长的花朵.md",
+    "Rewards/沉默之剑.md",
     "数据库.base",
-    "Sinful_spoils/原罪宝-蛇眼.md",
-    "Machine/Ryzeal/掌式永磁雷火沸动机.md",
-    "README.md",
-    "Machine/Ryzeal",
-    "Virtual_World/Maliss",
-    "Future/Argostars",
-    "Pasted image 20260417163353.png",
-    "Pasted image 20260417162854.png",
-    "VBEX2024卡图故事翻译1.00.pdf",
-    "Sinful_spoils/Morganite",
-    "Sinful_spoils/Azamina",
+    "精灵界卡图故事.md",
+    "main/UpstartGoblin",
+    "Fairy/Prank-Kids",
+    "DT/Vylon",
+    "Future/Superheavy",
+    "Future/Super_Quantal",
+    "Future/Morphtronic",
+    "main/Dark_World",
+    "main/Gravekeeper",
+    "Fairy/Trickstar",
+    "Hero/Elemental/元素英雄 炽热侠.md",
+    "Rewards/种子弹丸.md",
+    "Other/Tistina/结瘴龙 提斯蒂娜.md",
+    "other_images/6368038-2.png",
+    "other_images/6368038-1.png",
+    "other_images/Pasted image 20260417231603.png",
+    "other_images/Pasted image 20260417231539.png",
+    "other_images/Pasted image 20260417231424.png",
+    "other_images/Pasted image 20260417231312.png",
+    "other_images/Pasted image 20260417231237.png",
     "DT世界观卡图故事.md",
-    "Pasted image 20260417000258.png",
-    "Sinful_spoils/White_Forest",
-    "Sinful_spoils/Goblin_Biker",
-    "Sinful_spoils/Diabell",
-    "other_images/Pasted image 20260415231502.png",
-    "other_images/Pasted image 20260415224100.png",
-    "other_images/Pasted image 20260415223622.png",
-    "other_images/Pasted image 20260415220329.png",
-    "other_images/Pasted image 20260415215346.png",
-    "other_images/Pasted image 20260415214739.png",
-    "other_images/Pasted image 20260415212518.png",
-    "Superhuman/S-Force/治安战警队追缉.md",
-    "Superhuman/S-Force/治安战警队桥头堡.md",
-    "Story_of_White/Tri-Brigade/铁兽鸟 墨丘利信使.md",
-    "Story_of_White/Tri-Brigade/铁兽的邂逅.md",
-    "Story_of_White/Tri-Brigade/铁兽的血盟.md",
-    "Story_of_White/Tri-Brigade/铁兽的死线.md",
-    "Story_of_White/Tri-Brigade/铁兽的抗战.md",
-    "Story_of_White/Tri-Brigade/铁兽的战线.md",
-    "Story_of_White/Tri-Brigade/铁兽的咆哮.md",
-    "Story_of_White/Tri-Brigade/铁兽的击铁.md",
-    "Story_of_White/Tri-Brigade/铁兽的凶袭.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 银弹之卢加鲁.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 纳贝尔.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 徒花之费莉吉特.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 弗拉克杜尔.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 姬特.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 凶鸟之施莱格.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 块击之蓝辉熊.md",
-    "Story_of_White/Tri-Brigade/铁兽战线 克拉斯.md",
-    "Story_of_White/Tri-Brigade/铁兽式强袭机动兵装改“牛头伯劳2”.md"
+    "other_images/Pasted image 20260417221007.png",
+    "other_images/Pasted image 20260417220030.png",
+    "other_images/Pasted image 20260417220023.png",
+    "Virtual_World/Maliss/码丽丝镜中奇像.md",
+    "Virtual_World/Maliss/码丽丝梦游地下界.md",
+    "Virtual_World/Maliss/码丽丝_王后_红棋勒索.md",
+    "Virtual_World/Maliss/码丽丝_王后_红心加密.md",
+    "Virtual_World/Maliss/码丽丝_王后_白棋捆绑.md",
+    "Virtual_World/Maliss/码丽丝_兵卒_睡鼠.md",
+    "Virtual_World/Maliss/码丽丝_兵卒_柴郡猫.md",
+    "Virtual_World/Maliss/码丽丝_兵卒_白兔.md",
+    "Virtual_World/Maliss/码丽丝_兵卒_三月兔.md",
+    "Virtual_World/Maliss/码丽丝_代码_TB-11.md",
+    "Virtual_World/Maliss/码丽丝_代码_MTP-07.md",
+    "Virtual_World/Maliss/码丽丝_代码_GWC-06.md",
+    "Virtual_World/Maliss/疯帽黑客.md",
+    "Sinful_spoils/White_Forest/白森林禁止入内.md",
+    "Sinful_spoils/White_Forest/白森林的魔狼 森厄狼.md",
+    "Sinful_spoils/White_Forest/白森林的魔性 濡血蝠.md",
+    "Sinful_spoils/White_Forest/白森林的阿斯忒瑞亚.md"
   ]
 }

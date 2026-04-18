@@ -18,13 +18,17 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-      - property: series
-        direction: DESC
       - property: 字段
         direction: DESC
+      - property: formula.未命名
+        direction: ASC
+      - property: 英文名
+        direction: ASC
+      - property: series
+        direction: DESC
     columnSize:
-      file.name: 126
-      note.ID: 11
-      file.folder: 64
-      note.英文名: 138
-      note.字段: 137
+      file.name: 180
+      note.ID: 67
+      file.folder: 129
+      note.英文名: 245
+      note.字段: 201

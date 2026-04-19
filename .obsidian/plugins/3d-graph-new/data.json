@@ -15,13 +15,17 @@
           {
             "query": "tag:#世界  ",
             "color": "#c5761b"
+          },
+          {
+            "query": "tag:#历史  ",
+            "color": "#dc1818"
           }
         ],
         "display": {
           "nodeSize": 1,
           "linkThickness": 1,
-          "linkDistance": 20,
-          "nodeRepulsion": 2800,
+          "linkDistance": 50,
+          "nodeRepulsion": 3000,
           "distanceFromFocal": 500,
           "nodeHoverColor": "#ff0000",
           "nodeHoverNeighbourColor": "#00ff00",
@@ -30,7 +34,7 @@
           "showFullPath": false,
           "showCenterCoordinates": true,
           "showLinkArrow": true,
-          "dontMoveWhenDrag": false,
+          "dontMoveWhenDrag": true,
           "dagOrientation": "null"
         }
       },
@@ -49,13 +53,17 @@
       {
         "query": "tag:#世界  ",
         "color": "#c5761b"
+      },
+      {
+        "query": "tag:#历史  ",
+        "color": "#dc1818"
       }
     ],
     "display": {
       "nodeSize": 1,
       "linkThickness": 1,
-      "linkDistance": 20,
-      "nodeRepulsion": 2800,
+      "linkDistance": 50,
+      "nodeRepulsion": 3000,
       "distanceFromFocal": 500,
       "nodeHoverColor": "#ff0000",
       "nodeHoverNeighbourColor": "#00ff00",
@@ -64,7 +72,7 @@
       "showFullPath": false,
       "showCenterCoordinates": true,
       "showLinkArrow": true,
-      "dontMoveWhenDrag": false,
+      "dontMoveWhenDrag": true,
       "dagOrientation": "null"
     }
   },

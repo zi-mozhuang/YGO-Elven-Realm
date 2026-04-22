@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-temp/炒土地.md",
+                "file": "main/UpstartGoblin/增草剂.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "炒土地"
+              "title": "增草剂"
             }
           }
         ]
@@ -80,8 +80,7 @@
               "title": "精灵界卡图故事"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,39 +240,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "3d-graph-new:Global 3D Graph": false
+      "bases:新建数据库": false
     }
   },
-  "active": "e0bcfe8f81872a1d",
+  "active": "3ae81b8aa024eae2",
   "lastOpenFiles": [
-    "9-temp/彩虹鱼.md",
-    "8-temp/大暴落.md",
-    "9-temp/成金哥布林.md",
-    "9-temp/泡沫崩溃.md",
-    "main/DarkScorpion/必杀！黑蝎合击.md",
+    "main/UpstartGoblin/增草剂.md",
     "精灵界卡图故事.md",
-    "9-temp/报复的隐齿.md",
-    "9-temp/盗壶者.md",
-    "8-temp/哥布林盗贼.md",
-    "8-temp/强欲哥布林.md",
-    "9-temp/强欲之壶的精灵.md",
-    "8-temp/头奖壶7.md",
-    "8-temp/广告标语.md",
-    "8-temp/孤注差一掷.md",
-    "8-temp/哥布林杂耍艺人.md",
-    "8-temp/一点式买法.md",
-    "9-temp/打草惹蛇.md",
-    "8-temp/花粉症.md",
-    "8-temp/检问.md",
-    "9-temp/强欲的碎片.md",
-    "9-temp/杀人蛇.md",
-    "9-temp/壶魔神.md",
-    "9-temp/恶魔喜剧演员.md",
-    "9-temp/哥布林偷窥者.md",
-    "9-temp/临时收入.md",
-    "8-temp/可回收瓶.md",
+    "main/UpstartGoblin/暴君种植场.md",
+    "main/UpstartGoblin/邻家割草.md",
+    "main/UpstartGoblin/哥布林的经营手腕.md",
+    "main/UpstartGoblin/广告标语.md",
+    "main/UpstartGoblin/救金鱼.md",
+    "main/UpstartGoblin/炒土地.md",
+    "main/UpstartGoblin/暗之量产工厂.md",
+    "main/UpstartGoblin/王宫的牢狱.md",
+    "main/UpstartGoblin/强欲哥布林.md",
+    "main/UpstartGoblin/盗壶者.md",
+    "main/UpstartGoblin/罚则金.md",
+    "main/UpstartGoblin/哥布林的敷衍了事.md",
+    "main/UpstartGoblin/哥布林盗贼.md",
+    "main/UpstartGoblin/检问.md",
+    "main/UpstartGoblin/退回.md",
+    "main/UpstartGoblin/可回收瓶.md",
+    "main/UpstartGoblin/暗之增产工厂.md",
+    "main/UpstartGoblin/临时收入.md",
+    "main/UpstartGoblin/哥布林偷窥者.md",
+    "main/UpstartGoblin/头奖壶7.md",
+    "main/UpstartGoblin/孤注差一掷.md",
+    "main/UpstartGoblin/第二次机会.md",
+    "main/UpstartGoblin/大暴落.md",
+    "main/UpstartGoblin/泡沫崩溃.md",
     "数据库.base",
+    "main/UpstartGoblin",
     "8-temp",
     "9-temp",
     "UpstartGoblin/未命名",
@@ -282,7 +281,6 @@
     "main/Pot/Jar",
     "main/Pot",
     "1-world/MG",
-    "main/DarkScorpion",
     "other_images/6368038-2.png",
     "other_images/6368038-1.png",
     "other_images/Pasted image 20260417231603.png",

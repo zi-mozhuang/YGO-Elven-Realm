@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Gigo/一色即发.md",
+                "file": "main/Force/Captain/冲锋陷阵的队长.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "一色即发"
+              "title": "冲锋陷阵的队长"
             }
           }
         ]
@@ -80,7 +80,8 @@
               "title": "精灵界卡图故事"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags:   - 栗子球",
+                "query": "![[tstmp_20260425163508_WynntheWindCharmer-CH02-EN-UR-1E.png|400]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.51103591918945
+    "width": 260.51103591918945
   },
   "right": {
     "id": "f725a3154f210c94",
@@ -245,50 +246,51 @@
   },
   "active": "cf52def09ff3ab00",
   "lastOpenFiles": [
-    "数据库.base",
-    "README.md",
-    "Rewards/森之番人 绿狒狒.md",
-    "main/Gigo/一色即发.md",
-    "main/Gigo/一色万骨.md",
-    "main/Gigo/怪蹴一色.md",
-    "main/Gigo/弱肉一色.md",
-    "main/Gigo/义豪灵蜥.md",
-    "main/Gigo/电豪灵蜥.md",
     "精灵界卡图故事.md",
-    "main/Gigo/未命名/暗黑之侵略者.md",
-    "main/Gigo/未命名",
-    "main/Pot/业界首位.md",
-    "main/Gigo/未命名/叠光捕获.md",
-    "main/Gigo/未命名/次元障壁.md",
-    "main/Gigo/未命名/战友的誓言.md",
-    "main/Gigo/未命名/好对手的记忆.md",
-    "main/Gigo/未命名/巨歧蜥·魔蜥义豪.md",
-    "main/Freed",
-    "main/Gigo/未命名/歧蜥·魔蜥义豪.md",
-    "main/Gigo/未命名/反击的毒牙.md",
-    "main/Gigo/未命名/亚空间战斗.md",
-    "main/Gigo/未命名/二人小组战斗.md",
-    "main/Gigo/未命名/万魔殿-恶魔的巢窟-.md",
-    "main/Gigo/未命名/魔蜥义豪.md",
-    "main/Gigo/未命名/牲祭的祭坛.md",
-    "main/Gigo/未命名/绝体绝命.md",
-    "main/Captain/战士生还.md",
-    "main/Darkness",
-    "main/Captain",
-    "Pasted image 20260424155500.png",
-    "Pasted image 20260424152602.png",
-    "Pasted image 20260424152533.png",
-    "Pasted image 20260424152437.png",
-    "Pasted image 20260424152354.png",
-    "Pasted image 20260424152239.png",
-    "main/Charmer",
-    "Pasted image 20260424145548.png",
-    "Pasted image 20260424145527.png",
-    "4-Token",
-    "Pasted image 20260424144036.png",
-    "2-Animation Cards/未命名",
-    "main/D_D_",
-    "main/Gigo",
-    "other_images/6368038-2.png"
+    "main/Force/Captain/冲锋陷阵的队长.md",
+    "main/Force/Captain/战士生还.md",
+    "main/Force/Captain/二重攻击.md",
+    "main/Force/Captain/妥善料理的队长.md",
+    "main/Gigo/埴轮.md",
+    "main/Gigo/战友的誓言.md",
+    "main/Gigo/悠悠.md",
+    "main/Gigo/义豪灵蜥.md",
+    "main/Gigo/一色万骨.md",
+    "main/Gigo/一色即发.md",
+    "main/Gigo/三角力量.md",
+    "main/Gigo/歧蜥·魔蜥义豪.md",
+    "main/Gigo/魔蜥义豪.md",
+    "main/Gigo/暗黑之侵略者.md",
+    "main/Gigo/我身作盾.md",
+    "main/Gigo/蛇毒眼镜蛇.md",
+    "main/Gigo/弱肉一色.md",
+    "main/Gigo/蘑菇人.md",
+    "main/Gigo/蘑菇怪人.md",
+    "main/Gigo/灵魂障壁.md",
+    "main/Gigo/觉醒的勇士 魔蜥义豪.md",
+    "main/Gigo/绝体绝命.md",
+    "main/Gigo/巨歧蜥·魔蜥义豪.md",
+    "main/Gigo/滑冰场.md",
+    "main/Gigo/怪蹴一色.md",
+    "数据库.base",
+    "main/Archfiend/Throne",
+    "main/Archfiend/SummonedSkull",
+    "main/Archfiend/Chess/SnipeHunter",
+    "1-world/MG/未命名",
+    "1-world/MG/Kingdom",
+    "main/Archfiend/Chess",
+    "5D's/RedDragonArchfiend",
+    "main/Archfiend",
+    "main/Royal/order",
+    "tstmp_20260425235951_v2-2565c75621232a3335e8e9ebfd1801e5_1440w.jpg",
+    "tstmp_20260425234755.webp",
+    "tstmp_20260425233957_v2-0f761a2aa8db4267194a2c1625e6e222_1440w.jpg",
+    "tstmp_20260425233315_v2-b1d2629beb39a81dde7eb81b5eaff8ed_1440w.jpg",
+    "tstmp_20260425232446_v2-96f588ccae9ae0816ce48a80bc40a0ba_1440w.jpg",
+    "QQ_1777115970179.png",
+    "ygocard_images/40542825-2.png",
+    "ygocard_images/31764353-2.png",
+    "ygocard_images/31887905-2.png",
+    "ygocard_images/4376658-2.png"
   ]
 }

@@ -40,7 +40,7 @@ tags: []
 {{#if id}}
 ![[ygocard_images/{{id}}.jpg]]
 {{else}}
-![[view_images/{{cid}}.jpg]]
+![[other_images/{{cid}}.jpg]]
 {{/if}}
 
 **基本信息**  

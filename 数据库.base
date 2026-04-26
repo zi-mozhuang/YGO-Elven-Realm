@@ -12,7 +12,6 @@ views:
       - file.folder
       - 英文名
       - 字段
-      - formula.未命名
     sort:
       - property: ID
         direction: ASC
@@ -29,6 +28,6 @@ views:
     columnSize:
       file.name: 180
       note.ID: 67
-      file.folder: 129
+      file.folder: 166
       note.英文名: 245
       note.字段: 201

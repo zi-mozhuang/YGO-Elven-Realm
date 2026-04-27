@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Force/Captain/冲锋陷阵的队长.md",
+                "file": "main/Royal/Tyrant/皇帝的新装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "冲锋陷阵的队长"
+              "title": "皇帝的新装"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![[tstmp_20260425163508_WynntheWindCharmer-CH02-EN-UR-1E.png|400]]",
+                "query": "tags:   - 栗子球",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 259.51103591918945
   },
   "right": {
     "id": "f725a3154f210c94",
@@ -244,53 +244,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cf52def09ff3ab00",
+  "active": "4bb81d587740d418",
   "lastOpenFiles": [
+    "main/Royal/Tyrant/皇帝的新装.md",
+    "main/Force/Captain/共振装置.md",
     "精灵界卡图故事.md",
-    "main/Force/Captain/冲锋陷阵的队长.md",
-    "main/Force/Captain/战士生还.md",
-    "main/Force/Captain/二重攻击.md",
+    "main/Force/Captain/反击准备.md",
+    "main/Force/Captain/救护部队.md",
+    "main/Force/Captain/来自黑暗的恐怖.md",
+    "main/Force/Captain/拦路的强敌.md",
+    "main/Force/Captain/逆火.md",
+    "main/Force/Captain/怒气冲冲的队长.md",
+    "main/Force/Captain/踢火.md",
     "main/Force/Captain/妥善料理的队长.md",
-    "main/Gigo/埴轮.md",
-    "main/Gigo/战友的誓言.md",
-    "main/Gigo/悠悠.md",
-    "main/Gigo/义豪灵蜥.md",
-    "main/Gigo/一色万骨.md",
-    "main/Gigo/一色即发.md",
-    "main/Gigo/三角力量.md",
-    "main/Gigo/歧蜥·魔蜥义豪.md",
-    "main/Gigo/魔蜥义豪.md",
-    "main/Gigo/暗黑之侵略者.md",
-    "main/Gigo/我身作盾.md",
-    "main/Gigo/蛇毒眼镜蛇.md",
-    "main/Gigo/弱肉一色.md",
-    "main/Gigo/蘑菇人.md",
-    "main/Gigo/蘑菇怪人.md",
-    "main/Gigo/灵魂障壁.md",
-    "main/Gigo/觉醒的勇士 魔蜥义豪.md",
-    "main/Gigo/绝体绝命.md",
-    "main/Gigo/巨歧蜥·魔蜥义豪.md",
-    "main/Gigo/滑冰场.md",
-    "main/Gigo/怪蹴一色.md",
+    "main/Force/Captain/卫生兵 肌肉大汉.md",
+    "main/Force/Captain/凶恶犯-开膛手.md",
+    "main/Force/Captain/疫病.md",
+    "main/Force/Captain/增援.md",
+    "main/Force/Captain/增援部队.md",
+    "main/Force/Captain/战士生还.md",
+    "main/Force/Captain/战线复归.md",
+    "main/Force/Captain/二重攻击.md",
+    "main/Force/Captain/蹴杀者.md",
+    "main/Force/Captain/出于黑暗的绝望.md",
+    "main/Force/Captain/冲锋陷阵的队长.md",
+    "main/Force/Captain/本阵强袭.md",
+    "main/Royal/order/征兵令.md",
+    "main/Royal/order/王宫的通告.md",
+    "main/Goblin/Force/哥布林侦察部队.md",
     "数据库.base",
-    "main/Archfiend/Throne",
-    "main/Archfiend/SummonedSkull",
-    "main/Archfiend/Chess/SnipeHunter",
-    "1-world/MG/未命名",
-    "1-world/MG/Kingdom",
-    "main/Archfiend/Chess",
-    "5D's/RedDragonArchfiend",
-    "main/Archfiend",
+    "Pasted image 20260427162928.png",
+    "Pasted image 20260427162525.png",
+    "Pasted image 20260427161912.png",
+    "Pasted image 20260427161023.png",
+    "90740329-2.png",
+    "Pasted image 20260427150902.png",
+    "Pasted image 20260427144143.png",
+    "Pasted image 20260427144122.png",
+    "Pasted image 20260427143133.png",
+    "8-temp",
+    "main/Goblin/goat",
+    "main/Goblin/Force",
+    "ygocard_images/759393-3.png",
+    "main/Royal/wait",
+    "main/Royal/Tyrant",
+    "main/Royal/Revolution",
+    "main/Royal/rebirth",
     "main/Royal/order",
-    "tstmp_20260425235951_v2-2565c75621232a3335e8e9ebfd1801e5_1440w.jpg",
-    "tstmp_20260425234755.webp",
-    "tstmp_20260425233957_v2-0f761a2aa8db4267194a2c1625e6e222_1440w.jpg",
-    "tstmp_20260425233315_v2-b1d2629beb39a81dde7eb81b5eaff8ed_1440w.jpg",
-    "tstmp_20260425232446_v2-96f588ccae9ae0816ce48a80bc40a0ba_1440w.jpg",
-    "QQ_1777115970179.png",
-    "ygocard_images/40542825-2.png",
-    "ygocard_images/31764353-2.png",
-    "ygocard_images/31887905-2.png",
-    "ygocard_images/4376658-2.png"
+    "main/Royal"
   ]
 }

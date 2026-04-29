@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30fdeaf2667eb527",
+        "id": "ad439caeb47276e4",
         "type": "tabs",
-        "dimension": 37.13723561239547,
         "children": [
           {
-            "id": "cf52def09ff3ab00",
+            "id": "055a486ce6ac17b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-temp/不死族的骸旋.md",
+                "file": "8-temp/Huge Revolution/rebirth/契约洗净.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "不死族的骸旋"
+              "title": "契约洗净"
             }
           }
         ]
@@ -37,7 +36,6 @@
       {
         "id": "639510ba94669104",
         "type": "tabs",
-        "dimension": 62.86276438760453,
         "children": [
           {
             "id": "3ae81b8aa024eae2",
@@ -72,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "精灵界卡图故事.md",
+                "file": "精灵界卡图故事-unofficial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "精灵界卡图故事"
+              "title": "精灵界卡图故事-unofficial"
             }
           }
         ]
@@ -243,52 +241,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3ae81b8aa024eae2",
+  "active": "ad5eaaddd7f8e386",
   "lastOpenFiles": [
-    "8-temp/不死族的骸旋.md",
-    "8-temp/僵尸虎.md",
+    "8-temp/Huge Revolution/rebirth/DD征募.md",
+    "8-temp/Huge Revolution/rebirth/延迟惩罚.md",
     "数据库.base",
-    "8-temp/不死世界.md",
-    "8-temp/齐唱僵尸.md",
-    "8-temp/骷髅寺院.md",
-    "8-temp/忒修斯魔栖物.md",
-    "8-temp/再生僵尸.md",
-    "8-temp/出于黑暗的绝望.md",
-    "8-temp/疫病狼.md",
-    "8-temp/哥布林僵尸.md",
-    "8-temp/成长的花朵.md",
-    "8-temp/龙僵尸.md",
-    "8-temp/死亡帝王龙.md",
-    "8-temp/真红眼不尸龙.md",
-    "8-temp/沉默的邪恶灵.md",
-    "8-temp/暗之暗杀者.md",
-    "8-temp/狂暴死龙.md",
-    "8-temp/Dark/DarkRuler/与恶魔的暗中交易.md",
-    "8-temp/Dark/DarkRuler/信赖之心.md",
-    "8-temp/Dark/DarkRuler/仇恨炸弹.md",
-    "2-Animation Cards/未被选者.md",
-    "2-Animation Cards/同调之魂.md",
-    "2-Animation Cards/属性重力.md",
-    "2-Animation Cards/革命-诡计战斗.md",
-    "Pasted image 20260429001848.png",
-    "2-Animation Cards/旋风翼.md",
-    "8-temp/Dark/RevivedKing",
-    "8-temp/Dark/Vanity",
-    "Pasted image 20260428231410.png",
+    "8-temp/Huge Revolution/rebirth/自由解放.md",
+    "8-temp/Huge Revolution/rebirth/王宫的敕命.md",
+    "8-temp/Huge Revolution/rebirth/守护天使 贞德.md",
+    "8-temp/Huge Revolution/rebirth/圣女 贞德.md",
+    "8-temp/Huge Revolution/rebirth/契约洗净.md",
+    "8-temp/Huge Revolution/rebirth/魔力终了宣告.md",
+    "8-temp/Huge Revolution/rebirth/宫廷的账簿.md",
+    "8-temp/Huge Revolution/rebirth/宫廷的礼仪.md",
+    "8-temp/Huge Revolution/rebirth/宫廷的规矩.md",
+    "Pasted image 20260429174828.png",
+    "Pasted image 20260429174527.png",
+    "Pasted image 20260429174521.png",
+    "Pasted image 20260429172859.png",
+    "8-temp/Huge Revolution/Tyrant/王宫的重税.md",
+    "8-temp/Huge Revolution/Tyrant/王宫的牢狱.md",
+    "8-temp/Huge Revolution/Tyrant/王宫的号令.md",
+    "8-temp/Huge Revolution/Tyrant/王宫的弹压.md",
+    "8-temp/Huge Revolution/Tyrant/团结的反抗军.md",
+    "8-temp/Huge Revolution/Tyrant/通行增税.md",
+    "8-temp/Huge Revolution/Tyrant/通行税.md",
+    "8-temp/Huge Revolution/Tyrant/停战协定.md",
+    "8-temp/Huge Revolution/Tyrant/强引的番兵.md",
+    "8-temp/Huge Revolution/Tyrant/强引的安全协定.md",
+    "8-temp/Huge Revolution/Tyrant/谦虚的番兵.md",
+    "8-temp/Huge Revolution/Tyrant/魔之取引.md",
+    "8-temp/Huge Revolution/Tyrant/慢活族.md",
+    "8-temp/Huge Revolution/Tyrant/流离的饥民.md",
+    "8-temp/Huge Revolution/middle",
+    "tstmp_20260425235951_v2-2565c75621232a3335e8e9ebfd1801e5_1440w.jpg",
+    "tstmp_20260425232446_v2-96f588ccae9ae0816ce48a80bc40a0ba_1440w.jpg",
+    "other_images/QQ_1777115970179.png",
+    "other_images/Pasted image 20260429144933.png",
+    "other_images/Pasted image 20260429144108.png",
+    "Underworld/Zombie/Plague Wolf",
+    "other_images/Pasted image 20260429143132.png",
+    "Underworld/DarkSpirit",
+    "3-RD",
+    "Underworld/Zombie",
     "Underworld/Grave",
-    "Pasted image 20260428195759.png",
-    "main/Mokey",
-    "main/Gigo/giga",
-    "main/Gigo/Risen",
-    "main/Gigo/Gigobyte",
-    "main/Gigo/Gagagigo",
-    "main/Gigo/Freed",
-    "Pasted image 20260428154602.png",
-    "Pasted image 20260428150150.png",
-    "Pasted image 20260428112822.png",
-    "Pasted image 20260427234021.png",
-    "other_images/Pasted image 20260424144036.png",
-    "tstmp_20260425233315_v2-b1d2629beb39a81dde7eb81b5eaff8ed_1440w.jpg",
-    "Pasted image 20260427233102.png"
+    "8-temp/King/HaDes",
+    "8-temp/King/Abyss",
+    "8-temp/King"
   ]
 }

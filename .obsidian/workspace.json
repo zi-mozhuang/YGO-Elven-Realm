@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad439caeb47276e4",
+        "id": "30fdeaf2667eb527",
         "type": "tabs",
+        "dimension": 37.13723561239547,
         "children": [
           {
-            "id": "055a486ce6ac17b3",
+            "id": "d041351f636dba6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-temp/Huge Revolution/rebirth/契约洗净.md",
+                "file": "8-temp/Force/Command/指挥骑士.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "契约洗净"
+              "title": "指挥骑士"
             }
           }
         ]
@@ -36,6 +37,7 @@
       {
         "id": "639510ba94669104",
         "type": "tabs",
+        "dimension": 62.86276438760453,
         "children": [
           {
             "id": "3ae81b8aa024eae2",
@@ -51,20 +53,6 @@
             }
           },
           {
-            "id": "c9d387dfa32ccf65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "4bb81d587740d418",
             "type": "leaf",
             "state": {
@@ -76,6 +64,20 @@
               },
               "icon": "lucide-file",
               "title": "精灵界卡图故事-unofficial"
+            }
+          },
+          {
+            "id": "2a39eba7a0ccd62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -241,52 +243,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ad5eaaddd7f8e386",
+  "active": "3ae81b8aa024eae2",
   "lastOpenFiles": [
-    "8-temp/Huge Revolution/rebirth/DD征募.md",
-    "8-temp/Huge Revolution/rebirth/延迟惩罚.md",
+    "8-temp/Force/Command/指挥骑士.md",
+    "8-temp/Force/Command/旋风翼.md",
+    "8-temp/Force/Command/未被选者.md",
+    "8-temp/Force/Command/属性重力.md",
+    "8-temp/Force/Command/神剑-凤凰剑.md",
+    "8-temp/Force/Command/抢夺无人机.md",
+    "8-temp/Force/Command/女武神骑士.md",
+    "8-temp/Force/Command/反目的从者.md",
+    "8-temp/Force/Command/大山火.md",
+    "8-temp/Force/Command/保镖防御.md",
+    "Rewards/最终突击命令.md",
     "数据库.base",
-    "8-temp/Huge Revolution/rebirth/自由解放.md",
-    "8-temp/Huge Revolution/rebirth/王宫的敕命.md",
-    "8-temp/Huge Revolution/rebirth/守护天使 贞德.md",
-    "8-temp/Huge Revolution/rebirth/圣女 贞德.md",
-    "8-temp/Huge Revolution/rebirth/契约洗净.md",
-    "8-temp/Huge Revolution/rebirth/魔力终了宣告.md",
-    "8-temp/Huge Revolution/rebirth/宫廷的账簿.md",
-    "8-temp/Huge Revolution/rebirth/宫廷的礼仪.md",
-    "8-temp/Huge Revolution/rebirth/宫廷的规矩.md",
-    "Pasted image 20260429174828.png",
-    "Pasted image 20260429174527.png",
-    "Pasted image 20260429174521.png",
-    "Pasted image 20260429172859.png",
-    "8-temp/Huge Revolution/Tyrant/王宫的重税.md",
-    "8-temp/Huge Revolution/Tyrant/王宫的牢狱.md",
-    "8-temp/Huge Revolution/Tyrant/王宫的号令.md",
-    "8-temp/Huge Revolution/Tyrant/王宫的弹压.md",
-    "8-temp/Huge Revolution/Tyrant/团结的反抗军.md",
-    "8-temp/Huge Revolution/Tyrant/通行增税.md",
-    "8-temp/Huge Revolution/Tyrant/通行税.md",
-    "8-temp/Huge Revolution/Tyrant/停战协定.md",
-    "8-temp/Huge Revolution/Tyrant/强引的番兵.md",
-    "8-temp/Huge Revolution/Tyrant/强引的安全协定.md",
-    "8-temp/Huge Revolution/Tyrant/谦虚的番兵.md",
-    "8-temp/Huge Revolution/Tyrant/魔之取引.md",
-    "8-temp/Huge Revolution/Tyrant/慢活族.md",
-    "8-temp/Huge Revolution/Tyrant/流离的饥民.md",
-    "8-temp/Huge Revolution/middle",
-    "tstmp_20260425235951_v2-2565c75621232a3335e8e9ebfd1801e5_1440w.jpg",
-    "tstmp_20260425232446_v2-96f588ccae9ae0816ce48a80bc40a0ba_1440w.jpg",
-    "other_images/QQ_1777115970179.png",
-    "other_images/Pasted image 20260429144933.png",
-    "other_images/Pasted image 20260429144108.png",
-    "Underworld/Zombie/Plague Wolf",
-    "other_images/Pasted image 20260429143132.png",
+    "README.md",
+    "Rewards/撤收命令.md",
+    "8-temp/Force/Freed/无败将军 弗里德.md",
+    "49681811-2.png",
+    "8-temp/Force/重锤突击保镖.md",
+    "Pasted image 20260430001146.png",
+    "Pasted image 20260430000557.png",
+    "8-temp/Force/利刃保镖.md",
+    "8-temp/Force/幻影保镖.md",
+    "Pasted image 20260430000252.png",
+    "8-temp/Force/Captain/战士献身.md",
+    "8-temp/Force/Captain/一骑加势.md",
+    "8-temp/Force/Captain/踢火.md",
+    "8-temp/Force/Captain/逆火.md",
+    "8-temp/Force/Captain/连接洞.md",
+    "8-temp/Force/Captain/拦路的强敌.md",
+    "8-temp/Force/Captain/反击准备.md",
+    "8-temp/Force/Captain/本阵强袭.md",
+    "8-temp/Force/Captain/Marauding Captain",
+    "8-temp/Force/Captain/Marmiting Captain",
+    "Pasted image 20260429224234.png",
+    "Pasted image 20260429215517.png",
+    "Pasted image 20260429220228.png",
+    "Pasted image 20260429220654.png",
+    "Pasted image 20260429223237.png",
+    "Pasted image 20260429223406.png",
+    "4-Catou 1",
     "Underworld/DarkSpirit",
-    "3-RD",
-    "Underworld/Zombie",
-    "Underworld/Grave",
-    "8-temp/King/HaDes",
-    "8-temp/King/Abyss",
-    "8-temp/King"
+    "Underworld/Dark/Vanity",
+    "Underworld/Dark/DarkRuler",
+    "Underworld/Dark/DarkKing",
+    "Underworld/Dark",
+    "main/Huge Revolution/wait"
   ]
 }

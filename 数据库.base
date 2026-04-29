@@ -12,8 +12,11 @@ views:
       - file.folder
       - 英文名
       - 字段
+      - 分类
     sort:
       - property: ID
+        direction: ASC
+      - property: 分类
         direction: ASC
       - property: file.name
         direction: ASC

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-temp/Force/Command/指挥骑士.md",
+                "file": "8-temp/Force/亚空间战斗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "指挥骑士"
+              "title": "亚空间战斗"
             }
           }
         ]
@@ -80,7 +80,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,9 +244,25 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3ae81b8aa024eae2",
+  "active": "d041351f636dba6e",
   "lastOpenFiles": [
+    "8-temp/Force/升阶重力.md",
+    "8-temp/Force/亚空间战斗.md",
+    "README.md",
+    "obsidian导入模板.md",
+    "数据库.base",
+    "Pasted image 20260430091411.png",
+    "8-temp/Force/Captain/连接洞.md",
+    "8-temp/Force/卫生兵 肌肉大汉.md",
+    "8-temp/Force/Bounzer/利刃保镖.md",
+    "8-temp/Force/Bounzer",
+    "8-temp/Force/Bounzer/幻影保镖.md",
+    "8-temp/Force/落单佣兵部队.md",
+    "Rewards/打火石.md",
+    "8-temp/Force/流浪佣兵部队.md",
+    "8-temp/Force/流氓佣兵部队.md",
     "8-temp/Force/Command/指挥骑士.md",
+    "精灵界卡图故事-unofficial.md",
     "8-temp/Force/Command/旋风翼.md",
     "8-temp/Force/Command/未被选者.md",
     "8-temp/Force/Command/属性重力.md",
@@ -256,25 +273,12 @@
     "8-temp/Force/Command/大山火.md",
     "8-temp/Force/Command/保镖防御.md",
     "Rewards/最终突击命令.md",
-    "数据库.base",
-    "README.md",
     "Rewards/撤收命令.md",
     "8-temp/Force/Freed/无败将军 弗里德.md",
     "49681811-2.png",
-    "8-temp/Force/重锤突击保镖.md",
     "Pasted image 20260430001146.png",
     "Pasted image 20260430000557.png",
-    "8-temp/Force/利刃保镖.md",
-    "8-temp/Force/幻影保镖.md",
     "Pasted image 20260430000252.png",
-    "8-temp/Force/Captain/战士献身.md",
-    "8-temp/Force/Captain/一骑加势.md",
-    "8-temp/Force/Captain/踢火.md",
-    "8-temp/Force/Captain/逆火.md",
-    "8-temp/Force/Captain/连接洞.md",
-    "8-temp/Force/Captain/拦路的强敌.md",
-    "8-temp/Force/Captain/反击准备.md",
-    "8-temp/Force/Captain/本阵强袭.md",
     "8-temp/Force/Captain/Marauding Captain",
     "8-temp/Force/Captain/Marmiting Captain",
     "Pasted image 20260429224234.png",
@@ -282,13 +286,11 @@
     "Pasted image 20260429220228.png",
     "Pasted image 20260429220654.png",
     "Pasted image 20260429223237.png",
-    "Pasted image 20260429223406.png",
     "4-Catou 1",
     "Underworld/DarkSpirit",
     "Underworld/Dark/Vanity",
     "Underworld/Dark/DarkRuler",
     "Underworld/Dark/DarkKing",
-    "Underworld/Dark",
-    "main/Huge Revolution/wait"
+    "Underworld/Dark"
   ]
 }

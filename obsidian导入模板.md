@@ -44,7 +44,11 @@ tags: []
 {{/if}}
 
 **基本信息**  
+{{#ifeq text.card_type "怪兽"}}
 {{text.types}}
+{{else}}
+`= choice(this.分类, "[" + this.类型 + "|" + this.分类 + "]", "[" + this.类型 + "]")`
+{{/ifeq}}
 
 {{#if text.pdesc}}
 **灵摆效果**

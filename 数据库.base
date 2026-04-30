@@ -31,6 +31,6 @@ views:
     columnSize:
       file.name: 180
       note.ID: 67
-      file.folder: 166
-      note.英文名: 245
+      file.folder: 175
+      note.英文名: 220
       note.字段: 201

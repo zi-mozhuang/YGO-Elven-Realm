@@ -28,7 +28,7 @@ tags: []
 ![[ygocard_images/62499965.jpg]]
 
 **基本信息**  
-[魔法]
+`= choice(this.分类, "[" + this.类型 + "|" + this.分类 + "]", "[" + this.类型 + "]")`
 
 
 **效果**  

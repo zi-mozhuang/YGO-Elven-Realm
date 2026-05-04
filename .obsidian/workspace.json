@@ -4,54 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "30fdeaf2667eb527",
-        "type": "tabs",
-        "dimension": 37.13723561239547,
-        "children": [
-          {
-            "id": "d041351f636dba6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-temp/Scientist/性能过剩.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "性能过剩"
-            }
-          }
-        ]
-      },
-      {
         "id": "639510ba94669104",
         "type": "tabs",
-        "dimension": 62.86276438760453,
         "children": [
-          {
-            "id": "3ae81b8aa024eae2",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "数据库.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "数据库"
-            }
-          },
           {
             "id": "4bb81d587740d418",
             "type": "leaf",
@@ -64,6 +19,19 @@
               },
               "icon": "lucide-file",
               "title": "精灵界卡图故事-unofficial"
+            }
+          },
+          {
+            "id": "9877bb1e10a846dd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "数据库.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "数据库"
             }
           },
           {
@@ -80,7 +48,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,53 +212,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d041351f636dba6e",
+  "active": "9877bb1e10a846dd",
   "lastOpenFiles": [
-    "8-temp/Scientist/强制循环装置.md",
-    "8-temp/Scientist/强制退出装置.md",
-    "8-temp/Scientist/强制归还装置.md",
-    "4-Catou/蓝龙海蛞蝓.md",
-    "4-Catou/倒霉的哥布林小孩.md",
-    "4-Catou/DNA医疗队.md",
-    "4-Catou/羽翼之力.md",
-    "4-Catou/未知战士.md",
-    "4-Catou/星之力.md",
-    "4-Catou/灭绝之力.md",
-    "4-Catou/进化之翼的使女.md",
-    "4-Catou/炼金术士们.md",
-    "4-Catou/千年神官们.md",
-    "4-Catou/水之伊格尼斯.md",
-    "4-Catou/贤者之书.md",
-    "4-Catou/小栗子的主人.md",
-    "8-temp/DNA定期健诊.md",
+    "补全英文名.py",
+    "clean_folder copy.py",
+    "temp/cards.json",
+    "temp",
+    "README.md",
     "数据库.base",
-    "8-temp/DNA改造手术.md",
-    "8-temp/DNA移植手术.md",
-    "8-temp/由魔界到冥界的巴士.md",
-    "8-temp/蛇毒眼镜蛇.md",
-    "8-temp/Scientist/Magical Scientist/融合复制.md",
-    "8-temp/科学快人博士.md",
-    "8-temp/Scientist/Magical Scientist/简易融合.md",
-    "8-temp/Scientist/Magical Scientist/简素融合.md",
-    "8-temp/Scientist/性能过剩.md",
-    "Pasted image 20260430171932.png",
-    "Pasted image 20260430171616.png",
-    "Pasted image 20260430162449.png",
-    "Pasted image 20260430162324.png",
-    "Pasted image 20260430161427.png",
-    "18807108-2.png",
-    "8-temp/Scientist/Kozaky",
-    "8-temp/Scientist/Magical Scientist",
-    "main/Force/Inpachi",
-    "8-temp/Scientist/Koa'ki",
-    "8-temp/Scientist",
-    "1525329-2.png",
-    "8-temp/Sword Breaker",
-    "Pasted image 20260430140527.png",
-    "8-temp/Haniwa",
-    "8-temp/Blade Knight",
-    "Pasted image 20260430111456.png",
-    "Pasted image 20260430110416.png",
-    "8-temp/Gigo/Gogiga Gagagigo"
+    "ygocard_images/85101228.jpg",
+    "ygocard_images/85115440.jpg",
+    "ygocard_images/85138716-2.png",
+    "other_images/QQ_1777115970179.png",
+    "other_images/Pasted image 20260504141806.png",
+    "8-temp/Mokey/Trap Hole/珠宝的落穴.md",
+    "8-temp/Mokey/Trap Hole/积满醋酸的落穴.md",
+    "4-Catou/落穴兽人.md",
+    "8-temp/Mokey/Trap Hole/断绝的落穴.md",
+    "8-temp/Mokey/Trap Hole/大落穴.md",
+    "8-temp/Mokey/Trap Hole/大吃鱼惊！.md",
+    "8-temp/Mokey/Trap Hole/穿刺的落穴.md",
+    "8-temp/Mokey/Trap Hole/卑鄙的落穴.md",
+    "8-temp/Mokey/Trap Hole/异次元的落穴.md",
+    "8-temp/Mokey/Trap Hole/飞牙鲛.md",
+    "8-temp/Mokey/Trap Hole/狡猾的落穴.md",
+    "8-temp/电网的落穴.md",
+    "8-temp/Mokey/Trap Hole/绝缘的落穴.md",
+    "4-Catou/落穴娃娃.md",
+    "8-temp/狂惑的落穴.md",
+    "8-temp/Mokey/Trap Hole/奈落的落穴.md",
+    "8-temp/Mokey/Trap Hole/落穴.md",
+    "8-temp/Mokey/Trap Hole/黏着的落穴.md",
+    "8-temp/Mokey/Trap Hole/深黑的落穴.md",
+    "8-temp/Mokey/Trap Hole/时空的落穴.md",
+    "8-temp/Mokey/Trap Hole/无底的落穴.md",
+    "8-temp/Mokey/Trap Hole/蓄积硫酸的落穴.md",
+    "8-temp/虫惑的落穴.md",
+    "8-temp/蛊惑谋陷.md",
+    "other_images/Pasted image 20260504141313.png",
+    "41356845-2.png",
+    "other_images/Pasted image 20260504134511.png",
+    "main/The Big March of Animals/Harpie/Phantom Gryphon",
+    "8-temp/Mokey/Trap Hole",
+    "other_images/Pasted image 20260504112215.png",
+    "other_images/Pasted image 20260504103815.png",
+    "main/The Big March of Animals/Harpie/Harpie's Pet Dragon",
+    "main/The Big March of Animals/Harpie/Harpie Lady Sisters",
+    "8-temp/Gryphon",
+    "8-temp/temp"
   ]
 }

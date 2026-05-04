@@ -1,20 +1,38 @@
 formulas:
   未命名: ""
+  未命名 2: ""
 views:
   - type: table
     name: 表格
     filters:
       and:
         - "!ID.isEmpty()"
+        - 英文名.isEmpty()
     order:
       - file.name
       - ID
       - file.folder
+      - 日文名
       - 英文名
       - 字段
-      - 分类
+      - 类型
+      - 卡密
     sort:
       - property: ID
+        direction: ASC
+      - property: file.basename
+        direction: DESC
+      - property: 英文名
+        direction: DESC
+      - property: 卡密
+        direction: ASC
+      - property: 日文音标
+        direction: ASC
+      - property: formula.未命名 2
+        direction: ASC
+      - property: file.backlinks
+        direction: ASC
+      - property: 属性
         direction: ASC
       - property: 分类
         direction: ASC
@@ -24,13 +42,12 @@ views:
         direction: DESC
       - property: formula.未命名
         direction: ASC
-      - property: 英文名
-        direction: ASC
       - property: series
         direction: DESC
     columnSize:
-      file.name: 180
+      file.name: 176
       note.ID: 67
-      file.folder: 175
-      note.英文名: 220
+      file.folder: 207
+      note.日文名: 203
+      note.英文名: 263
       note.字段: 201

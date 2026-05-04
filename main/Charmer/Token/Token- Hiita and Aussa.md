@@ -9,7 +9,7 @@ CNOCG:
 日文音标:
 日文名: トークン
 英文名: Token-Hiita and Aussa
-类型: Token
+类型: 衍生物
 分类:
 兼容: 11
 字段:

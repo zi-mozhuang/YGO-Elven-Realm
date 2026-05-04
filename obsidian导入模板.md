@@ -16,7 +16,15 @@ CNOCG: |-
 日文名: |-
   {{jp_name}}
 英文名: |-
+{{#if en_name}}
   {{en_name}}
+{{elseif md_en_n}}
+  {{md_en_n}}
+{{elseif wiki_en}}
+  {{wiki_en}}
+{{else}}
+  {{en_name}}
+{{/if}}
 类型: {{text.card_type}}
 分类: {{text.category}}
 {{#if data.race}}

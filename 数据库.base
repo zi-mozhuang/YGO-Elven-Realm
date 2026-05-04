@@ -7,7 +7,6 @@ views:
     filters:
       and:
         - "!ID.isEmpty()"
-        - 英文名.isEmpty()
     order:
       - file.name
       - ID
@@ -19,7 +18,7 @@ views:
       - 卡密
     sort:
       - property: ID
-        direction: ASC
+        direction: DESC
       - property: file.basename
         direction: DESC
       - property: 英文名

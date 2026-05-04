@@ -723,7 +723,8 @@ for cid, card in data.items():
     if "LINK" in types_text:
         m = re.search(r"- (.+)$", types_text)
         if m:
-            extra = m.group(1).replace("[", "").replace("]", "").strip()
+            # extra = m.group(1).replace("[", "").replace("]", "").strip()
+            extra = m.group(1).strip()
     elif "灵摆" in types_text:
         m = re.search(r"(\d+\/\d+)$", types_text)
         if m:

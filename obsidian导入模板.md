@@ -18,12 +18,16 @@ CNOCG: |-
 英文名: |-
 {{#if en_name}}
   {{en_name}}
-{{elseif md_en_n}}
+{{else}}
+{{#if md_en_n}}
   {{md_en_n}}
-{{elseif wiki_en}}
+{{else}}
+{{#if wiki_en}}
   {{wiki_en}}
 {{else}}
-  {{en_name}}
+  
+{{/if}}
+{{/if}}
 {{/if}}
 类型: {{text.card_type}}
 分类: {{text.category}}
@@ -34,7 +38,7 @@ CNOCG: |-
 攻击: {{data.atk}}
 防御: {{data.def}}
 {{#if text.extra_value}}
-连接方向/灵摆值: {{text.extra_value}}
+连接方向/灵摆值: "{{text.extra_value}}"
 {{/if}}
 {{/if}}
 兼容: {{data.ot}}
@@ -52,11 +56,20 @@ tags: []
 {{/if}}
 
 **基本信息**  
-{{#ifeq text.card_type "怪兽"}}
-{{text.types}}
+{{#if (contains text.card_type "怪兽")}}
+`= "[怪兽|" + this.分类 + "] " + this.种族 + "/" + this.属性`
+{{#if (contains text.category "连接")}}
+`= "[LINK-" + this["级/阶/连"] + "] " + this.攻击 + "/- " + this["连接方向/灵摆值"]`
+{{else if (contains text.category "超量")}}
+`= "[☆" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御`
+{{else if (contains text.category "灵摆")}}
+`= "[★" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御 + " " + this["连接方向/灵摆值"]`
+{{else}}
+`= "[★" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御`
+{{/if}}
 {{else}}
 `= choice(this.分类, "[" + this.类型 + "|" + this.分类 + "]", "[" + this.类型 + "]")`
-{{/ifeq}}
+{{/if}}
 
 {{#if text.pdesc}}
 **灵摆效果**

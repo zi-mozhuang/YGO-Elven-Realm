@@ -4,6 +4,36 @@
     "type": "split",
     "children": [
       {
+        "id": "f85f2e7d0ccdb310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a84e431c28e0024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8-temp/飞鹰.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "飞鹰"
+            }
+          }
+        ]
+      },
+      {
         "id": "b64c6b38aa59ab70",
         "type": "tabs",
         "children": [
@@ -32,20 +62,6 @@
               },
               "icon": "lucide-table",
               "title": "数据库"
-            }
-          },
-          {
-            "id": "19c0697cbe874b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-temp/Harpie/鹰身引导者.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "鹰身引导者"
             }
           },
           {
@@ -116,12 +132,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.51103591918945
   },
   "right": {
     "id": "f725a3154f210c94",
@@ -228,53 +243,52 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "9877bb1e10a846dd",
+  "active": "8a84e431c28e0024",
   "lastOpenFiles": [
-    "8-temp/Harpie/鹰身引导者.md",
     "数据库.base",
-    "8-temp/Harpie/RD/妖鸟甜心.md",
-    "TEMP/幻影骑士团 敌意死镰.md",
-    "TEMP/薄明之魔 勒莱耶光蜃2.md",
-    "TEMP/无垢祈祷的狱神使.md",
-    "TEMP/勒克纳斯之吸雷 布里泽.md",
-    "TEMP/2.md",
-    "TEMP/薄明之魔 黑夜蜃影.md",
-    "README.md",
-    "TEMP/黑阳龙 伊利俄斯.md",
-    "TEMP/连接蜘蛛.md",
-    "TEMP/No.39 希望皇 霍普.md",
-    "TEMP/星读之魔术师.md",
-    "8-temp/Harpie/RD/妖鸟佳丽.md",
-    "8-temp/Harpie/RD/妖鸟正装.md",
-    "8-temp/Harpie/RD/妖鸟甜心 魅惑衣装.md",
-    "8-temp/连接栗子球.md",
-    "Pasted image 20260504192054.png",
-    "Pasted image 20260504191819.png",
-    "Pasted image 20260504191549.png",
-    "Pasted image 20260504191357.png",
-    "8-temp/Harpie/鹰身女王.md",
-    "8-temp/Harpie/鹰身调香师.md",
-    "8-temp/Harpie/RD",
-    "8-temp/Harpie/鹰身少女.md",
-    "2-Animation Cards/陷阱穿透者 1.md",
-    "8-temp/手札对换.md",
+    "8-temp/飞鹰.md",
     "精灵界卡图故事-unofficial.md",
+    "main/The Big March of Animals/乌合无象.md",
+    "main/The Big March of Animals/Animals/Totem/图腾柱.md",
+    "main/The Big March of Animals/Animals/Totem/图腾鸟.md",
+    "main/The Big March of Animals/Animals/Totem",
+    "main/The Big March of Animals/Animals/Totem/图腾五星.md",
+    "main/The Big March of Animals/Animals/Totem/月舞的仪式.md",
+    "8-temp/顺风世界.md",
+    "5-wait/刺客之门.md",
     "main/The Big March of Animals/乌合之行进.md",
-    "main/The Big March of Animals/百兽大行进.md",
-    "main/Mokey Mokey/悠悠.md",
-    "TEMP",
-    "cards-260504.json",
-    "cards copy.json",
-    "temp_backup_20260504_172600",
-    "temp_backup_20260504_172006",
-    "temp/card.json",
-    "补全英文名.py",
-    "clean_folder copy.py",
-    "ygocard_images/85101228.jpg",
-    "ygocard_images/85115440.jpg",
-    "ygocard_images/85138716-2.png",
-    "other_images/QQ_1777115970179.png",
-    "other_images/Pasted image 20260504141806.png",
-    "other_images/Pasted image 20260504141313.png"
+    "8-temp/Labyrinth/自律行动装置.md",
+    "8-temp/Labyrinth/迷宫的重魔战车.md",
+    "8-temp/Labyrinth/迷宫的魔战车.md",
+    "8-temp/Labyrinth/高科技狼.md",
+    "8-temp/Labyrinth/大型加农炮兵.md",
+    "8-temp/Labyrinth/RD怪兽模板 1.md",
+    "8-temp/Labyrinth/升级转变.md",
+    "8-temp/奇策.md",
+    "8-temp/Labyrinth/质量加速器.md",
+    "8-temp/Labyrinth/线性加农炮.md",
+    "8-temp/Labyrinth/爆导索.md",
+    "8-temp/Labyrinth/导爆线.md",
+    "8-temp/Labyrinth/加农炮兵.md",
+    "8-temp/Labyrinth/背误射击.md",
+    "8-temp/Labyrinth/天罚.md",
+    "Pasted image 20260505202543.png",
+    "Pasted image 20260505201759.png",
+    "Pasted image 20260505201401.png",
+    "Pasted image 20260505200651.png",
+    "Pasted image 20260505200327.png",
+    "8-temp/Labyrinth",
+    "main/The Big March of Animals/Animals/Wolf",
+    "Pasted image 20260505193858.png",
+    "5-wait",
+    "Pasted image 20260505191637.png",
+    "Pasted image 20260505171638.png",
+    "Pasted image 20260505170848.png",
+    "Pasted image 20260505170557.png",
+    "main/The Big March of Animals/Ice Counter",
+    "4-Catou/未命名",
+    "main/The Big March of Animals/未命名",
+    "5D's/Black-Winged Dragon/Bird",
+    "5D's/Power Tool Dragon"
   ]
 }

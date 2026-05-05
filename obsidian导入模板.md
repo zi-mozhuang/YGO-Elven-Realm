@@ -58,15 +58,19 @@ tags: []
 **基本信息**  
 {{#if (contains text.card_type "怪兽")}}
 `= "[怪兽|" + this.分类 + "] " + this.种族 + "/" + this.属性`
-{{#if (contains text.category "连接")}}
+  {{#if (contains text.category "连接")}}
 `= "[LINK-" + this["级/阶/连"] + "] " + this.攻击 + "/- " + this["连接方向/灵摆值"]`
-{{else if (contains text.category "超量")}}
+  {{else if (contains text.category "超量")}}
+    {{if contains text.category "灵摆"}}
+`= "[☆" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御 + " " + this["连接方向/灵摆值"]`
+    {{else}}
 `= "[☆" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御`
-{{else if (contains text.category "灵摆")}}
+    {{/if}}
+  {{else if (contains text.category "灵摆")}}
 `= "[★" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御 + " " + this["连接方向/灵摆值"]`
-{{else}}
+  {{else}}
 `= "[★" + this["级/阶/连"] + "] " + this.攻击 + "/" + this.防御`
-{{/if}}
+  {{/if}}
 {{else}}
 `= choice(this.分类, "[" + this.类型 + "|" + this.分类 + "]", "[" + this.类型 + "]")`
 {{/if}}

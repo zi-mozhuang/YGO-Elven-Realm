@@ -7,6 +7,8 @@ views:
     filters:
       and:
         - "!ID.isEmpty()"
+        - 类型 == "怪兽"
+        - 分类.contains("连接")
     order:
       - file.name
       - ID
@@ -15,10 +17,17 @@ views:
       - 英文名
       - 字段
       - 类型
-      - 卡密
+      - 分类
+      - 连接方向/灵摆值
     sort:
-      - property: ID
+      - property: 连接方向/灵摆值
         direction: DESC
+      - property: 级/阶/连
+        direction: DESC
+      - property: file.mtime
+        direction: ASC
+      - property: ID
+        direction: ASC
       - property: file.basename
         direction: DESC
       - property: 英文名
@@ -46,7 +55,8 @@ views:
     columnSize:
       file.name: 176
       note.ID: 67
-      file.folder: 207
-      note.日文名: 203
-      note.英文名: 263
-      note.字段: 201
+      file.folder: 151
+      note.日文名: 71
+      note.英文名: 171
+      note.字段: 87
+      note.分类: 148

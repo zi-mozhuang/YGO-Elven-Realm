@@ -6,6 +6,7 @@
       {
         "id": "f85f2e7d0ccdb310",
         "type": "tabs",
+        "dimension": 31.121134020618555,
         "children": [
           {
             "id": "8a84e431c28e0024",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-temp/飞鹰.md",
+                "file": "8-temp/Light/The Sanctuary in the Sky/Ｓｐ－起爆化.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "飞鹰"
+              "title": "Ｓｐ－起爆化"
             }
           }
         ]
@@ -36,6 +37,7 @@
       {
         "id": "b64c6b38aa59ab70",
         "type": "tabs",
+        "dimension": 68.87886597938144,
         "children": [
           {
             "id": "4bb81d587740d418",
@@ -243,52 +245,53 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "8a84e431c28e0024",
+  "active": "ad5eaaddd7f8e386",
   "lastOpenFiles": [
+    "8-temp/Light/The Sanctuary in the Sky/Parshath",
     "数据库.base",
-    "8-temp/飞鹰.md",
+    "8-temp/Light/The Sanctuary in the Sky/Ｓｐ－起爆化.md",
+    "8-temp/temp/天空的女神 朱诺.md",
+    "8-temp/Light/翼蛋精灵.md",
+    "ARC-V/天空的虹彩.md",
+    "8-temp/Light/The Sanctuary in the Sky/天空的歌声.md",
+    "8-temp/Light/The Sanctuary in the Sky/天空的圣水.md",
+    "8-temp/Light/The Sanctuary in the Sky/天空的宝札.md",
+    "8-temp/Light/The Sanctuary in the Sky/圣域歌声.md",
     "精灵界卡图故事-unofficial.md",
-    "main/The Big March of Animals/乌合无象.md",
-    "main/The Big March of Animals/Animals/Totem/图腾柱.md",
-    "main/The Big March of Animals/Animals/Totem/图腾鸟.md",
-    "main/The Big March of Animals/Animals/Totem",
-    "main/The Big March of Animals/Animals/Totem/图腾五星.md",
-    "main/The Big March of Animals/Animals/Totem/月舞的仪式.md",
-    "8-temp/顺风世界.md",
-    "5-wait/刺客之门.md",
-    "main/The Big March of Animals/乌合之行进.md",
-    "8-temp/Labyrinth/自律行动装置.md",
-    "8-temp/Labyrinth/迷宫的重魔战车.md",
-    "8-temp/Labyrinth/迷宫的魔战车.md",
-    "8-temp/Labyrinth/高科技狼.md",
-    "8-temp/Labyrinth/大型加农炮兵.md",
-    "8-temp/Labyrinth/RD怪兽模板 1.md",
-    "8-temp/Labyrinth/升级转变.md",
-    "8-temp/奇策.md",
-    "8-temp/Labyrinth/质量加速器.md",
-    "8-temp/Labyrinth/线性加农炮.md",
-    "8-temp/Labyrinth/爆导索.md",
-    "8-temp/Labyrinth/导爆线.md",
-    "8-temp/Labyrinth/加农炮兵.md",
-    "8-temp/Labyrinth/背误射击.md",
-    "8-temp/Labyrinth/天罚.md",
-    "Pasted image 20260505202543.png",
-    "Pasted image 20260505201759.png",
-    "Pasted image 20260505201401.png",
-    "Pasted image 20260505200651.png",
-    "Pasted image 20260505200327.png",
-    "8-temp/Labyrinth",
-    "main/The Big March of Animals/Animals/Wolf",
-    "Pasted image 20260505193858.png",
-    "5-wait",
-    "Pasted image 20260505191637.png",
-    "Pasted image 20260505171638.png",
-    "Pasted image 20260505170848.png",
-    "Pasted image 20260505170557.png",
-    "main/The Big March of Animals/Ice Counter",
-    "4-Catou/未命名",
-    "main/The Big March of Animals/未命名",
-    "5D's/Black-Winged Dragon/Bird",
-    "5D's/Power Tool Dragon"
+    "README.md",
+    "8-temp/Light/The Sanctuary in the Sky/天空的圣域.md",
+    "8-temp/Light/The Sanctuary in the Sky/电光调整.md",
+    "8-temp/Light/The Sanctuary in the Sky/拼图友爱天使.md",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Zerato/上级抽卡.md",
+    "8-temp/Light/The Sanctuary in the Sky",
+    "8-temp/Light/诞生的天使.md",
+    "Pasted image 20260506171716.png",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Zerato/杰拉的天使.md",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Zerato/堕天使 杰拉特.md",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Zerato/大天使 杰拉特.md",
+    "8-temp/Light/The Sanctuary in the Sky/光之召集.md",
+    "8-temp/Light/The Sanctuary in the Sky/友谊天使.md",
+    "8-temp/Light/The Sanctuary in the Sky/友情主教.md",
+    "8-temp/Light/The Sanctuary in the Sky/小天使.md",
+    "8-temp/Light/The Sanctuary in the Sky/希望之光.md",
+    "Pasted image 20260506171010.png",
+    "8-temp/temp/裁决之剑.md",
+    "8-temp/Ryu-Kishin/鸭人.md",
+    "Pasted image 20260506165639.png",
+    "8-temp/Attribute Knight",
+    "Pasted image 20260506160421.png",
+    "Pasted image 20260506155223.png",
+    "8-temp/Gorgon",
+    "Pasted image 20260506154850.png",
+    "Pasted image 20260506154343.png",
+    "Pasted image 20260506154210.png",
+    "Pasted image 20260506153854.png",
+    "8-temp/Ryu-Kishin",
+    "Pasted image 20260506152812.png",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Zerato",
+    "8-temp/Light/The Sanctuary in the Sky/Zera/Mazera",
+    "8-temp/Light/Voiceless_Voice/Ritual",
+    "8-temp/Light/The Sanctuary in the Sky/Zera",
+    "8-temp/Light"
   ]
 }

@@ -18,14 +18,14 @@ views:
     sort:
       - property: ID
         direction: ASC
+      - property: file.mtime
+        direction: DESC
       - property: 分类
         direction: ASC
       - property: 连接方向/灵摆值
         direction: DESC
       - property: 级/阶/连
         direction: DESC
-      - property: file.mtime
-        direction: ASC
       - property: file.basename
         direction: DESC
       - property: 英文名
@@ -49,10 +49,10 @@ views:
       - property: series
         direction: DESC
     columnSize:
-      file.name: 275
+      file.name: 179
       note.ID: 67
-      file.folder: 208
-      note.日文名: 135
+      file.folder: 193
+      note.日文名: 196
       note.英文名: 215
       note.字段: 87
       note.分类: 105

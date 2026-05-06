@@ -15,6 +15,7 @@ views:
       - 英文名
       - 字段
       - 分类
+      - 日文音标
     sort:
       - property: ID
         direction: ASC
@@ -51,7 +52,7 @@ views:
     columnSize:
       file.name: 179
       note.ID: 67
-      file.folder: 193
+      file.folder: 227
       note.日文名: 196
       note.英文名: 215
       note.字段: 87
